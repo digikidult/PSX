@@ -1,7 +1,7 @@
 {
-  "version": "0.12",
+  "version": "0.12.1",
   "date": "2026-10-31",
-  "status": "Same-version multi-partner preparation including paused slots; five-slot summaries and minimal/keepStats modes. Native five-slot IO/predicates checked, actual batch switching gameplay pending; prior6 single-partner samples retained.",
+  "status": "Grouped partner review, unapplied-selection and ability-reduction notices, off-slot error navigation. Solver and writer unchanged from0.12.",
   "files": [
     {
       "path": ".nojekyll",
@@ -10,8 +10,8 @@
     },
     {
       "path": "app.js",
-      "bytes": 25721,
-      "sha256": "378297f259b1f7848ca5083f8857b1afa823399b0f927d261d574e7b3597dd3f"
+      "bytes": 28377,
+      "sha256": "4ca82ec1b380f76392641b7f454de0b7ed1be0898b3caafa9c7d349517513416"
     },
     {
       "path": "assets/digikidult-logo.jpg",
@@ -415,8 +415,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 13608,
-      "sha256": "078479bf90347352874289a8ebe228bdccba65fea6089e10b0c10a4301f07b7b"
+      "bytes": 13958,
+      "sha256": "eb233f1d98a0d3ace3e9b4a85ccfca8f4248cf3755e72f20cb496fffd0c0c44c"
     },
     {
       "path": "core.js",
@@ -435,8 +435,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 16243,
-      "sha256": "bc9693990635d92cc329745c366ea3e0ebc0eb2f7a373159dc0248828381f446"
+      "bytes": 16439,
+      "sha256": "e0596629422beaeb6cad5e2065c346c699dcb1e2169e51503f82ee625a8a7f06"
     },
     {
       "path": "preparation-data.js",
@@ -450,8 +450,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 17118,
-      "sha256": "947b5b0afae75595023d4aa51b4a68643dd41f9e1b7d1d755afe2e5d4c31c3ed"
+      "bytes": 17715,
+      "sha256": "705f21779f7696fc1c602888c3e88ecb574bc47cf0c1e9198bb3f7881839d245"
     },
     {
       "path": "replacement-data.js",
@@ -465,8 +465,8 @@
     },
     {
       "path": "style.css",
-      "bytes": 16390,
-      "sha256": "0c3b5d3cafb3a8dd60bb44309072c6db1e41caf4d84dfe039068b1dbc16c6148"
+      "bytes": 16968,
+      "sha256": "c9ffb253d640227f25568285a181fa1c0fdc202cb4d6cd2558fad244bc019610"
     },
     {
       "path": "validation/automatic-gameplay-acceptance.json",
@@ -502,6 +502,11 @@
       "path": "validation/editor-lifecycle-validation.json",
       "bytes": 559,
       "sha256": "1f6d9997bae94a9ce6f6ecd79b73cca6541c833e8724714da22b030d3e88fea2"
+    },
+    {
+      "path": "validation/editor-review-usability-validation.json",
+      "bytes": 287,
+      "sha256": "881d2cda53b1cea2f4ca1fcc9d95ad631d3d671db9f7f668f2a66ee2be434e68"
     },
     {
       "path": "validation/fire-replacement-resource-validation.json",
