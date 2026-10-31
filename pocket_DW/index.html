@@ -4,14 +4,15 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#101d26"><meta name="description" content="Pocket Digimon World 繁體中文攻略：四版本172條進化路線、對話選項、學招、節日觸發及PocketStation角色圖像。DigiKidult 被選中嘅大細路。">
 <title>Pocket Digimon World 攻略 · DigiKidult</title>
-<link rel="icon" href="assets/digikidult-logo.jpg?v=20261028"><link rel="stylesheet" href="style.css?v=20261029-reference">
+<link rel="icon" href="assets/digikidult-logo.jpg?v=20261028"><link rel="stylesheet" href="style.css?v=20261031-battle">
 <script defer src="data.js?v=20261028-dialogue-pairs"></script><script defer src="app.js?v=20261028-dialogue-pairs"></script>
+<script defer src="battle-data.js?v=20261031"></script><script defer src="battle-guide.js?v=20261031"></script>
 </head>
 <body>
 <a class="skip" href="#main">跳至攻略內容</a>
 <header class="site-header"><div class="header-inner">
 <a class="brand" href="#top"><img src="assets/digikidult-logo.jpg?v=20261028" alt="DigiKidult" width="44" height="44"><span>Pocket Digimon World<small>Game Guide Managed by DigiKidult</small></span></a>
-<nav aria-label="主要導覽"><a href="#start">培育入門</a><a href="#evolution">進化攻略</a><a href="#advice">對話選項</a><a href="#calendar">日曆事件</a><a href="#moves">學招</a><a href="#sprites">圖像</a></nav>
+<nav aria-label="主要導覽"><a href="#start">培育入門</a><a href="#evolution">進化攻略</a><a href="#advice">對話選項</a><a href="#calendar">日曆事件</a><a href="#battle">關卡與敵人</a><a href="#moves">學招</a><a href="#sprites">圖像</a></nav>
 </div></header>
 <section class="hero" id="top"><div class="hero-inner">
 <div><p class="eyebrow"><span class="status-dot"></span> PLAYSTATION × POCKETSTATION</p><h1>口袋裏的夥伴，<br><span>一齊再進化。</span></h1><p class="hero-description">查清進化條件，讀懂每個回答。<br>Fire · Wind · Cool · Nature 繁體中文培育攻略。</p><div class="hero-buttons"><a class="button primary" href="#evolution">查找進化路線 <span>↗</span></a><a class="text-link" href="#start">第一次玩？由這裏開始 →</a></div><div class="hero-stats"><div><b>130</b><span>組進化路線</span></div><div><b>119</b><span>招式資料</span></div><div><b>79</b><span>份角色圖鑑</span></div></div></div>
@@ -45,6 +46,14 @@
 <div class="calendar-grid" id="calendar-dates"></div><a class="inline-link" href="#advice" id="holiday-questions-link">查看節日問題、中文選項及效果 →</a>
 <div class="split"><article class="panel"><h3>到咗節日，點解佢仲未講？</h3><ol class="reading-list"><li><b>先核對日期和時鐘。</b>遊戲要認到當天日期，才有機會說節日對白。</li><li><b>留意平日最常互動的時段。</b>候選時間為早上7、8、9點，中午12、1點，傍晚6、7、8點。</li><li><b>在適合時段等候。</b>原版Fire要在選中的同一小時；Wind及Cool／Nature有時可前後放寬一小時，但不是每天都適用。</li><li><b>不是一到整點便保證出現。</b>當天之前聊過的內容及次數也會影響機會；先前聊得多，可能會錯過這次節日對話。</li></ol></article><article class="panel soft"><h3>同一個節日可以講幾次？</h3><p><b>一般節日：</b>完成後通常當天一次。</p><p><b>女兒節：</b>可分兩至三段，要再等下一次對話機會，不會一次自動播完。</p><p><b>六月雨季：</b>通常整個月一次，過了一日不會重新開始。</p><p><b>生日：</b>通常當天一次；生日撞節日時，可能會先講生日而見不到原本節日內容。</p></article></div>
 <details class="guide-detail"><summary>可不可以讓夥伴習慣我的遊玩時間？</summary><div class="detail-body"><p>在上述時段，從普通照顧畫面打開選單，遊戲會記下互動。要保存該時段的記錄，應讓遊戲正常走到緊接的下一小時。</p><p>遊戲會偏向記錄最多的一個時段；同樣多時，較晚的一個時段優先。已保存的習慣不會單靠隔天重玩就重新累積，換日、跨月也會保留。</p><p>每隻夥伴分開記錄。繼續使用原有資料通常會保留習慣；重新建立夥伴資料則可能重來，不能把所有更換夥伴都當成同一種情況。</p></div></details>
+</section>
+
+<section id="battle"><div class="section-heading"><div><p class="eyebrow">BATTLES & EXPLORATION</p><h2>關卡與敵人：先分清兩種玩法<span>.</span></h2><p>PS1對戰與PocketStation冒險分開看。這裏先列已核對的原版FireCPU名單，以及四版PocketStation的道路與事件機制。</p></div></div>
+<div class="split"><article class="panel"><h3>PS1：為何有些對手未出現？</h3><p>原版Fire確認有42份CPU對手設定，不宜把資料次序當成42關的通關次序。初期四個選擇是V仔獸、巴達獸、甲蟲獸及加布獸；其餘名單會按收集／事件紀錄篩選。</p><p>以Fire版本夥伴作一般單卡對戰時，要有對應紀錄才會開放部分對手；不是單靠提高能力或累積勝場，就保證增加名單。哪些物品／事件對應哪個解鎖，仍在逐項配對。</p><p><b>敵人能力不是照你的數值即時放大。</b>下方是原版Fire初始化敵人時直接使用的固定值。這不等同已解明所有AI、傷害或勝敗公式。</p></article><article class="panel soft"><h3>PocketStation：為何同一路線遇到不同敵人？</h3><p>四版各有13個地點、14條道路。旅程中的一次事件判定，會先選擇「沒有事件／物品／敵人」，再按該道路的權重抽選。</p><p><b>Fire：</b>部分路上對手及物品會因已取得的紀錄而退出抽選，剩下候選的機會不會重新提高，因此收集後可能更常沒有事件。<b>Wind、Cool及Nature：</b>14條道路的隨機物品機會均為0，路上對手也沒有這類完成紀錄的移除設定；不要靠反覆走路等待隨機掉落物品。城鎮事件另有條件，不代表整個版本沒有物品。</p><p><b>城鎮事件不是同一套亂數。</b>遊戲會按候選先後，檢查前置及是否已完成，採用第一個符合的事件；想見後面的事件，可能要先完成前面或取得前置紀錄。</p></article></div>
+<div class="callout"><b>先選對版本。</b>PS1對手表這次只確認原版Fire，Wind與Cool／Nature的競技場不能直接照搬。PocketStation道路與事件選擇則已核對四版。地名附日本原文；中文為閱讀譯名，並非已核實的官方港譯。</div>
+<article class="panel"><h3>原版Fire：CPU對手能力與招式</h3><p>先看HP、攻防及速度差距，再決定是否挑戰。招式及行動傾向同樣影響結果，單項能力較高不保證勝利。可先用初期四隻作比較，避免把名單順序當作難度排名。</p><div class="battle-filters"><label>搜尋對手<input id="enemy-search" type="search" placeholder="中文或日文名稱"></label><label>顯示<select id="enemy-scope"><option value="initial">初期四個對手</option><option value="all">全部42份設定</option></select></label><label>排序<select id="enemy-sort"><option value="order">原版資料次序</option><option value="HP">HP由低至高</option><option value="attack">攻擊由低至高</option><option value="speed">速度由低至高</option></select></label></div><div id="enemy-table" aria-live="polite"></div><p class="fine-print">名稱未核對的特殊對手暫不猜譯。對手開放所需的具體物品名稱、出場演出及三版完整勝敗／獎勵流程，仍待補齊。</p></article>
+<article class="panel"><h3>PocketStation：地圖道路與遇敵</h3><div class="battle-filters"><label>版本<select id="adventure-version"><option>Fire</option><option>Wind</option><option>Cool</option><option>Nature</option></select></label><label>道路<select id="adventure-road"></select></label></div><div id="adventure-route" aria-live="polite"></div><p class="fine-print">百分比是未持有相關紀錄時，按原版抽選範圍換算的「單次事件判定」理論值，不是每次旅程必遇，也不是實機量測。對手暫按道路候選A–D列出；圖像代碼與完整名稱仍待配對，不把內部代碼當成數碼獸名稱。</p></article>
+<article class="panel"><h3>實際遊玩時怎樣利用？</h3><ol class="reading-list"><li><b>想累積對戰：</b>先比較道路的總遇敵機會及敵方能力；Fire收集相關紀錄後，原本的遇敵情況可能改變。</li><li><b>想找特定事件：</b>記下地點和日文名稱，完成前置後再返回。城鎮不是反覆重抽就一定能越過前置。</li><li><b>想解鎖PS1對手：</b>冒險與收集紀錄值得追蹤，不要只刷CPU勝場。具體紀錄對照未核實前，不把猜測寫成必定解鎖條件。</li><li><b>敗仗後先找差距：</b>原版Fire四個初期對手已有不同的HP、攻擊和速度；新夥伴太弱時，先按目標訓練，再回來挑戰。</li></ol></article>
 </section>
 
 <section id="moves"><div class="section-heading"><div><p class="eyebrow">LEARN & REPLACE</p><h2>想學新招？先睇這裏<span>.</span></h2><p>新招不是逐招順序解鎖；夥伴的分類、智力和已學招式都會影響選擇。</p></div><span class="section-number">05 / MOVES</span></div>
