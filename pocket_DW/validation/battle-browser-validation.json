@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "roads": 56,
+  "checks": [
+    "initial4/all42",
+    "Chinese/Japanese search",
+    "3 numeric sorts",
+    "4 versions × 14 roads: names, rows and odds",
+    "later versions zero road item chance",
+    "existing evolution/dialogue sections render",
+    "390px no page overflow",
+    "offline resources and no page errors"
+  ]
+}
