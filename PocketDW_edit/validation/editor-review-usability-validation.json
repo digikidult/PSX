@@ -1,0 +1,5 @@
+{
+  "status": "passed",
+  "checks": 16,
+  "scope": "Mobile grouped per-partner review, ability-reduction notice, unapplied target/mode notice retains applied plan, group jump and off-slot invalid edit identification/fix, no overflow or script errors. UI-only; solver/writer unchanged."
+}
