@@ -1,0 +1,92 @@
+{
+  "status": "passed",
+  "date": "2026-10-31",
+  "accepted_samples": 6,
+  "scope": "Six user-operated PS1 evolution/save/process-restart/reentry samples. Saved species and original target image/scenario bytes independently checked, programme retained. Synthetic source fixtures with original resources; Nature common state originated from labelled reference assembly, not an independently collected original PS1 Nature download. No all125-route/full-dialogue-branch/PocketStation gameplay or physical-hardware acceptance claim.",
+  "cases": [
+    {
+      "label": "01-Fire-attribute",
+      "family": "Fire",
+      "source": 8,
+      "sourceName": "巨龍獸",
+      "target": 180,
+      "targetName": "飛行V龍獸",
+      "coverage": "合體屬性",
+      "beforeSHA256": "0c8d5d7384ab95d7a1a482b430eb1bc1cf2e57998558060a164e2a199134635f",
+      "afterSHA256": "f9cbf91e78dbc5d319c2fb0b98d48adb19f26ecde2c8c69b97edeaf798389a2a",
+      "programUnchanged": true,
+      "targetImageAndScenarioVerified": true,
+      "restartUserConfirmation": "重開仍是飛行V龍獸"
+    },
+    {
+      "label": "02-Fire-alternative",
+      "family": "Fire",
+      "source": 12,
+      "sourceName": "機械暴龍獸",
+      "target": 213,
+      "targetName": "戰鬥暴龍獸",
+      "coverage": "不需合體的替代方法",
+      "beforeSHA256": "8cbaf52c165242ded06abe525cc46d3719962964ccd6f8300be9aed54f7c6c56",
+      "afterSHA256": "78c1289bf0dc2dfc18eedca3a1435f9bc93efd323fc83856072cdc6fc4184a80",
+      "programUnchanged": true,
+      "targetImageAndScenarioVerified": true,
+      "restartUserConfirmation": "重開仍是戰鬥暴龍獸"
+    },
+    {
+      "label": "03-Wind-hybrid",
+      "family": "Wind",
+      "source": 41,
+      "sourceName": "炸彈獸",
+      "target": 214,
+      "targetName": "究極天使獸",
+      "coverage": "合體屬性及次數",
+      "beforeSHA256": "3e4fe64e611352ec89615b89851981ad9f4e93a709c4c5c0b5035fa33b46c6de",
+      "afterSHA256": "e6ead369e0f803c000d5137a0ba503da5d10a37e46b0750c4400cc266df88109",
+      "programUnchanged": true,
+      "targetImageAndScenarioVerified": true,
+      "restartUserConfirmation": "重開仍是究極天使獸"
+    },
+    {
+      "label": "04-Wind-care",
+      "family": "Wind",
+      "source": 31,
+      "sourceName": "巴達獸",
+      "target": 11,
+      "targetName": "鼻涕獸",
+      "coverage": "照顧紀錄",
+      "beforeSHA256": "70a35a66ec4a558316d0d9248bd183f8d2967fd726ca9e5bf916f0087326d7c9",
+      "afterSHA256": "40aafe922e539131ef2fa0a40415fe1cdb71ba82495cd78ff0f86d0eadd802f3",
+      "programUnchanged": true,
+      "targetImageAndScenarioVerified": true,
+      "restartUserConfirmation": "重開仍是鼻涕獸"
+    },
+    {
+      "label": "05-Cool-hybrid",
+      "family": "Cool",
+      "source": 224,
+      "sourceName": "海魔獸",
+      "target": 204,
+      "targetName": "鋼鐵海龍獸",
+      "coverage": "合體屬性及次數",
+      "beforeSHA256": "94269d8d56a0c2e6314b4bafea3f0a71ca52d31fa2ab61465d153a56bed89ac2",
+      "afterSHA256": "fc90aae0fc56ccfe81e4ec5a9b8cccafd505f7edfe363d61b18d2133f63816c2",
+      "programUnchanged": true,
+      "targetImageAndScenarioVerified": true,
+      "restartUserConfirmation": "重開仍是鋼鐵海龍獸"
+    },
+    {
+      "label": "06-Nature-hybrid",
+      "family": "Nature",
+      "source": 40,
+      "sourceName": "安杜路獸",
+      "target": 65,
+      "targetName": "鋼鐵悟空獸",
+      "coverage": "Nature合體屬性及次數",
+      "beforeSHA256": "4643df1ccdd71f8a30a0e79f996878da2baeb306baba6101029f10a4913f183b",
+      "afterSHA256": "bbaeea97646c19a916cd7ae0d37a9dc9f49ab3d8c003ea45578a8ac5fd5cfc22",
+      "programUnchanged": true,
+      "targetImageAndScenarioVerified": true,
+      "restartUserConfirmation": "重開仍是鋼鐵悟空獸"
+    }
+  ]
+}

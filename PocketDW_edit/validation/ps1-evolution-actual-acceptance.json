@@ -1,0 +1,13 @@
+{
+  "user_screenshot_confirms_PS1_Greymon_evolution": true,
+  "card_partner_ID_at_check": 5,
+  "cardSHA256": "0c2d380bc3d955476ee5016e7b55e27ad905f3c7774c195d88ea337feddfaa19",
+  "restart_acceptance": true,
+  "source_screenshot": "evidence/fire-PS1-greymon-evolution-success.png",
+  "image_matches_original_Greymon": true,
+  "scenario_matches_original_Greymon": true,
+  "program_unchanged": true,
+  "status": "Fire_Agumon_to_Greymon_PS1_evolution_save_restart_accepted",
+  "restart_evidence": "User explicitly confirmed: 仍是暴龍獸 after independent PS1 process restart and game reentry",
+  "limits": "One Fire Agumon3 -> Greymon5 prepared fixture only. Other targets/versions and subsequent PocketStation gameplay not yet accepted."
+}

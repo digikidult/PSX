@@ -1,0 +1,327 @@
+{
+  "status": "passed",
+  "checks": 40,
+  "scope": "Eight JS exported four-family five-slot cards, original PS1/Pocket full predicates and actual original load/save/reload for each slot with RAM flash only. Active/paused/source retained. Synthetic fixtures; not real multi-partner switching gameplay or card hardware acceptance.",
+  "cases": [
+    {
+      "file": "Fire-minimal-multi-export.mcd",
+      "family": "Fire",
+      "mode": "minimal",
+      "slot": 0,
+      "PS1_target": 213,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Fire-minimal-multi-export.mcd",
+      "family": "Fire",
+      "mode": "minimal",
+      "slot": 1,
+      "PS1_target": 143,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Fire-minimal-multi-export.mcd",
+      "family": "Fire",
+      "mode": "minimal",
+      "slot": 2,
+      "PS1_target": 115,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Fire-minimal-multi-export.mcd",
+      "family": "Fire",
+      "mode": "minimal",
+      "slot": 3,
+      "PS1_target": 115,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Fire-minimal-multi-export.mcd",
+      "family": "Fire",
+      "mode": "minimal",
+      "slot": 4,
+      "PS1_target": 115,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Fire-keepStats-multi-export.mcd",
+      "family": "Fire",
+      "mode": "keepStats",
+      "slot": 0,
+      "PS1_target": 213,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Fire-keepStats-multi-export.mcd",
+      "family": "Fire",
+      "mode": "keepStats",
+      "slot": 1,
+      "PS1_target": 143,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Fire-keepStats-multi-export.mcd",
+      "family": "Fire",
+      "mode": "keepStats",
+      "slot": 2,
+      "PS1_target": 115,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Fire-keepStats-multi-export.mcd",
+      "family": "Fire",
+      "mode": "keepStats",
+      "slot": 3,
+      "PS1_target": 115,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Fire-keepStats-multi-export.mcd",
+      "family": "Fire",
+      "mode": "keepStats",
+      "slot": 4,
+      "PS1_target": 115,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Wind-minimal-multi-export.mcd",
+      "family": "Wind",
+      "mode": "minimal",
+      "slot": 0,
+      "PS1_target": 235,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Wind-minimal-multi-export.mcd",
+      "family": "Wind",
+      "mode": "minimal",
+      "slot": 1,
+      "PS1_target": 214,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Wind-minimal-multi-export.mcd",
+      "family": "Wind",
+      "mode": "minimal",
+      "slot": 2,
+      "PS1_target": 214,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Wind-minimal-multi-export.mcd",
+      "family": "Wind",
+      "mode": "minimal",
+      "slot": 3,
+      "PS1_target": 214,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Wind-minimal-multi-export.mcd",
+      "family": "Wind",
+      "mode": "minimal",
+      "slot": 4,
+      "PS1_target": 236,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Wind-keepStats-multi-export.mcd",
+      "family": "Wind",
+      "mode": "keepStats",
+      "slot": 0,
+      "PS1_target": 235,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Wind-keepStats-multi-export.mcd",
+      "family": "Wind",
+      "mode": "keepStats",
+      "slot": 1,
+      "PS1_target": 214,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Wind-keepStats-multi-export.mcd",
+      "family": "Wind",
+      "mode": "keepStats",
+      "slot": 2,
+      "PS1_target": 214,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Wind-keepStats-multi-export.mcd",
+      "family": "Wind",
+      "mode": "keepStats",
+      "slot": 3,
+      "PS1_target": 214,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Wind-keepStats-multi-export.mcd",
+      "family": "Wind",
+      "mode": "keepStats",
+      "slot": 4,
+      "PS1_target": 236,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Cool-minimal-multi-export.mcd",
+      "family": "Cool",
+      "mode": "minimal",
+      "slot": 0,
+      "PS1_target": 196,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Cool-minimal-multi-export.mcd",
+      "family": "Cool",
+      "mode": "minimal",
+      "slot": 1,
+      "PS1_target": 232,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Cool-minimal-multi-export.mcd",
+      "family": "Cool",
+      "mode": "minimal",
+      "slot": 2,
+      "PS1_target": 232,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Cool-minimal-multi-export.mcd",
+      "family": "Cool",
+      "mode": "minimal",
+      "slot": 3,
+      "PS1_target": 232,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Cool-minimal-multi-export.mcd",
+      "family": "Cool",
+      "mode": "minimal",
+      "slot": 4,
+      "PS1_target": 204,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Cool-keepStats-multi-export.mcd",
+      "family": "Cool",
+      "mode": "keepStats",
+      "slot": 0,
+      "PS1_target": 196,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Cool-keepStats-multi-export.mcd",
+      "family": "Cool",
+      "mode": "keepStats",
+      "slot": 1,
+      "PS1_target": 232,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Cool-keepStats-multi-export.mcd",
+      "family": "Cool",
+      "mode": "keepStats",
+      "slot": 2,
+      "PS1_target": 232,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Cool-keepStats-multi-export.mcd",
+      "family": "Cool",
+      "mode": "keepStats",
+      "slot": 3,
+      "PS1_target": 232,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Cool-keepStats-multi-export.mcd",
+      "family": "Cool",
+      "mode": "keepStats",
+      "slot": 4,
+      "PS1_target": 204,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Nature-minimal-multi-export.mcd",
+      "family": "Nature",
+      "mode": "minimal",
+      "slot": 0,
+      "PS1_target": 60,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Nature-minimal-multi-export.mcd",
+      "family": "Nature",
+      "mode": "minimal",
+      "slot": 1,
+      "PS1_target": 146,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Nature-minimal-multi-export.mcd",
+      "family": "Nature",
+      "mode": "minimal",
+      "slot": 2,
+      "PS1_target": 65,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Nature-minimal-multi-export.mcd",
+      "family": "Nature",
+      "mode": "minimal",
+      "slot": 3,
+      "PS1_target": 146,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Nature-minimal-multi-export.mcd",
+      "family": "Nature",
+      "mode": "minimal",
+      "slot": 4,
+      "PS1_target": 65,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Nature-keepStats-multi-export.mcd",
+      "family": "Nature",
+      "mode": "keepStats",
+      "slot": 0,
+      "PS1_target": 60,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Nature-keepStats-multi-export.mcd",
+      "family": "Nature",
+      "mode": "keepStats",
+      "slot": 1,
+      "PS1_target": 146,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Nature-keepStats-multi-export.mcd",
+      "family": "Nature",
+      "mode": "keepStats",
+      "slot": 2,
+      "PS1_target": 65,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Nature-keepStats-multi-export.mcd",
+      "family": "Nature",
+      "mode": "keepStats",
+      "slot": 3,
+      "PS1_target": 146,
+      "original_slot_load_save_reload": true
+    },
+    {
+      "file": "Nature-keepStats-multi-export.mcd",
+      "family": "Nature",
+      "mode": "keepStats",
+      "slot": 4,
+      "PS1_target": 65,
+      "original_slot_load_save_reload": true
+    }
+  ]
+}

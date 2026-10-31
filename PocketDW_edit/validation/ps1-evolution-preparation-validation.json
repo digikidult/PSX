@@ -1,0 +1,5 @@
+{
+  "status": "passed",
+  "checks": 33,
+  "scope": "Fire Agumon3 -> Greymon5 only. Web download exactly matches independently PS1 gameplay/save/restart-accepted prepared input; original complete predicate checks priority. Negative state/target/age bypass guards and automatic care repair, high stats/age preservation, UI applied values/review/export/conflict/reset/mobile/offline. Does not certify every supported input in gameplay or other routes/versions."
+}

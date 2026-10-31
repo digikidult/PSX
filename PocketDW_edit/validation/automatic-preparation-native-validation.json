@@ -1,0 +1,1007 @@
+{
+  "status": "passed",
+  "checks": 125,
+  "scope": "Actual JS-produced125 prepared cards independently parsed and original PS1 MIPS / Pocket Thumb full predicates executed with no predicate hooks. Correct target selected, original current source retained. Synthetic source cards with original resources; not all-route actual emulator/gameplay/transfer acceptance.",
+  "cases": [
+    {
+      "family": "Fire",
+      "source": 12,
+      "target": 213,
+      "sha256": "3022bea86c088f3d7e61343df09f0dd7a1d4d31358348b15d26cde129a4eb66d",
+      "PS1_target": 213,
+      "Pocket_target": 213
+    },
+    {
+      "family": "Fire",
+      "source": 180,
+      "target": 143,
+      "sha256": "9999898b0c27296a3664f2e94b676af6698cd37ac653a62b257fa8642877ef03",
+      "PS1_target": 143,
+      "Pocket_target": 143
+    },
+    {
+      "family": "Fire",
+      "source": 140,
+      "target": 115,
+      "sha256": "41d4450d3f169a9e5e213b42f8b53bb0a085c0a670727f6d2b20c396ba024281",
+      "PS1_target": 115,
+      "Pocket_target": 115
+    },
+    {
+      "family": "Fire",
+      "source": 54,
+      "target": 115,
+      "sha256": "662b189918fa0a7c74ec45a00c912e00b34175ccf8fb5041e4d15331cc7ff7c4",
+      "PS1_target": 115,
+      "Pocket_target": 115
+    },
+    {
+      "family": "Fire",
+      "source": 144,
+      "target": 115,
+      "sha256": "02d419194b62613ddd9ecc42d96de68b41db100f72451ac2881f25a3cf3cf8d4",
+      "PS1_target": 115,
+      "Pocket_target": 115
+    },
+    {
+      "family": "Fire",
+      "source": 187,
+      "target": 59,
+      "sha256": "1cc56edaeccfceeb2b7875c14176081f5845a9f1eebb166f9fc165f0d2b3c148",
+      "PS1_target": 59,
+      "Pocket_target": 59
+    },
+    {
+      "family": "Fire",
+      "source": 5,
+      "target": 12,
+      "sha256": "aaee0930d06d35190eed6d7e0db10a5b9d71bb2d88e13acf46f4bf3625c6a4a2",
+      "PS1_target": 12,
+      "Pocket_target": 12
+    },
+    {
+      "family": "Fire",
+      "source": 36,
+      "target": 12,
+      "sha256": "4583b7f3ef1d53c038ad6f92ccb065d49eca8cb35737cb1ce21648c65b058fe7",
+      "PS1_target": 12,
+      "Pocket_target": 12
+    },
+    {
+      "family": "Fire",
+      "source": 128,
+      "target": 12,
+      "sha256": "144c677f4cfdbfa665e35092700a59482cf03c6657b6ef0e85a832ef3da2923a",
+      "PS1_target": 12,
+      "Pocket_target": 12
+    },
+    {
+      "family": "Fire",
+      "source": 5,
+      "target": 26,
+      "sha256": "8b7c3836cafc1707b10591bc34cffef84d40f049f1efe920df2e01fd56740185",
+      "PS1_target": 26,
+      "Pocket_target": 26
+    },
+    {
+      "family": "Fire",
+      "source": 47,
+      "target": 26,
+      "sha256": "c20aa6d25d99cf002d705f8218717485c7c44762fa14a57631df08b288452b2f",
+      "PS1_target": 26,
+      "Pocket_target": 26
+    },
+    {
+      "family": "Fire",
+      "source": 9,
+      "target": 26,
+      "sha256": "e2dc19cd27c93f37076af4db7009b392c317675b618eb5be349ea43b7f63e8c3",
+      "PS1_target": 26,
+      "Pocket_target": 26
+    },
+    {
+      "family": "Fire",
+      "source": 21,
+      "target": 26,
+      "sha256": "f7c9349865671a9c0b19d02ccfea9fa6f80fba06049aa5eb315d9b86e41a94c3",
+      "PS1_target": 26,
+      "Pocket_target": 26
+    },
+    {
+      "family": "Fire",
+      "source": 36,
+      "target": 26,
+      "sha256": "b58cc2957c833af331c865c3fe6dfc4762513a0929b5a83ea35931b20e7184b9",
+      "PS1_target": 26,
+      "Pocket_target": 26
+    },
+    {
+      "family": "Fire",
+      "source": 133,
+      "target": 26,
+      "sha256": "a320f4f6b6498c352260cdc7aa7ed17fb1f1bddc204c0b2918b92aa89d4e9465",
+      "PS1_target": 26,
+      "Pocket_target": 26
+    },
+    {
+      "family": "Fire",
+      "source": 128,
+      "target": 26,
+      "sha256": "c47bd01a27a8025b30ce1430f3561ced6b92186f43eef47bccea985b3b3e8850",
+      "PS1_target": 26,
+      "Pocket_target": 26
+    },
+    {
+      "family": "Fire",
+      "source": 5,
+      "target": 144,
+      "sha256": "f9bc924c1ec776209af2b34efcbd545229e8a672cb4e5915e16d56e4e94d0d6d",
+      "PS1_target": 144,
+      "Pocket_target": 144
+    },
+    {
+      "family": "Fire",
+      "source": 133,
+      "target": 144,
+      "sha256": "ddb445a4b4eb95aeb962f03ee42c4c541d7db7c1e9e740b586a08858e887797f",
+      "PS1_target": 144,
+      "Pocket_target": 144
+    },
+    {
+      "family": "Fire",
+      "source": 8,
+      "target": 180,
+      "sha256": "0bb81a961e2c43f9eb34fa256f4c8bb7eb415887190b55d3110418445e528263",
+      "PS1_target": 180,
+      "Pocket_target": 180
+    },
+    {
+      "family": "Fire",
+      "source": 128,
+      "target": 180,
+      "sha256": "b8aec063237f7e59def107955f7d691383592a15e43ae2c668c459ddc5ec4d18",
+      "PS1_target": 180,
+      "Pocket_target": 180
+    },
+    {
+      "family": "Fire",
+      "source": 8,
+      "target": 140,
+      "sha256": "f9489d4d8142055876a70c44c3f766330db6f586c4a20f228c141dca0f5c77e6",
+      "PS1_target": 140,
+      "Pocket_target": 140
+    },
+    {
+      "family": "Fire",
+      "source": 47,
+      "target": 140,
+      "sha256": "b27ecbe38e16dfbbafbb39e7fdb51ec17a001af097d2a61715b9105aceeb1041",
+      "PS1_target": 140,
+      "Pocket_target": 140
+    },
+    {
+      "family": "Fire",
+      "source": 133,
+      "target": 140,
+      "sha256": "97405f8161bb3dbd2d385f38402f8530d86c2a0cb55fc8ef1f63e1c49500f1b3",
+      "PS1_target": 140,
+      "Pocket_target": 140
+    },
+    {
+      "family": "Fire",
+      "source": 47,
+      "target": 187,
+      "sha256": "c85e7ca72ca865574ac0dd8c6d552618d130ddae7f6a7a707c4239bb9f03491e",
+      "PS1_target": 187,
+      "Pocket_target": 187
+    },
+    {
+      "family": "Fire",
+      "source": 21,
+      "target": 187,
+      "sha256": "31c8167d4fbc74315342f71312cb618e7a0ae7cf4e4054392f07fb5352e23aa6",
+      "PS1_target": 187,
+      "Pocket_target": 187
+    },
+    {
+      "family": "Fire",
+      "source": 9,
+      "target": 187,
+      "sha256": "c1970ecb84a7c3b03483f2828d08ae69160543255b8f93f7f38e9642466c44aa",
+      "PS1_target": 187,
+      "Pocket_target": 187
+    },
+    {
+      "family": "Fire",
+      "source": 21,
+      "target": 54,
+      "sha256": "52d70363dc99ae99cafc32f3fa459e12e654e56d381553e8002e76a8fc81f362",
+      "PS1_target": 54,
+      "Pocket_target": 54
+    },
+    {
+      "family": "Fire",
+      "source": 36,
+      "target": 54,
+      "sha256": "69a959d85d81e8bba1c4d191d791e9bd18c7718b88976fc0b02ba5d67608b5b9",
+      "PS1_target": 54,
+      "Pocket_target": 54
+    },
+    {
+      "family": "Fire",
+      "source": 9,
+      "target": 54,
+      "sha256": "f0ef26cf2314bf219eaa22d2b6bcbb5234886a3f7c5536d5d52b699389bd9367",
+      "PS1_target": 54,
+      "Pocket_target": 54
+    },
+    {
+      "family": "Fire",
+      "source": 3,
+      "target": 5,
+      "sha256": "5f730ec106b5aba07eb2dc85f0bb56935ac355d815e75f7d71db54f5ce7b0c1c",
+      "PS1_target": 5,
+      "Pocket_target": 5
+    },
+    {
+      "family": "Fire",
+      "source": 3,
+      "target": 8,
+      "sha256": "3d9b19f2fa67a685e8f64ff9c9c53ff5c2e05a953a3a9d58ae9962d92a619c08",
+      "PS1_target": 8,
+      "Pocket_target": 8
+    },
+    {
+      "family": "Fire",
+      "source": 3,
+      "target": 47,
+      "sha256": "89bf66ee943c0a1d6292c4ae8c637e9fd79edae5ca9b9e922adf966ed1e43f19",
+      "PS1_target": 47,
+      "Pocket_target": 47
+    },
+    {
+      "family": "Fire",
+      "source": 145,
+      "target": 47,
+      "sha256": "79739449f26d234bce75f83e3b7785b5a170a2a38a625cf5aac74c4cba7cfd7a",
+      "PS1_target": 47,
+      "Pocket_target": 47
+    },
+    {
+      "family": "Fire",
+      "source": 45,
+      "target": 9,
+      "sha256": "b1820995d74638188e331a2b5ac075e0da5b657a7025181d1c4da2880d0c7bd7",
+      "PS1_target": 9,
+      "Pocket_target": 9
+    },
+    {
+      "family": "Fire",
+      "source": 45,
+      "target": 21,
+      "sha256": "d8ec5792f7e4bdb019f2bc59e995cf5338b9ed05b8e01a06c7daf341b0fa392b",
+      "PS1_target": 21,
+      "Pocket_target": 21
+    },
+    {
+      "family": "Fire",
+      "source": 45,
+      "target": 36,
+      "sha256": "6ef526e04c7ea098c2deea6e0edc0ff0acb9d5326e64166c197a9295c6fd3d98",
+      "PS1_target": 36,
+      "Pocket_target": 36
+    },
+    {
+      "family": "Fire",
+      "source": 145,
+      "target": 133,
+      "sha256": "bf6183dafb951bfd2aed9251a57e34282983ee3a98800b6a00fbf365ea7e59e9",
+      "PS1_target": 133,
+      "Pocket_target": 133
+    },
+    {
+      "family": "Fire",
+      "source": 145,
+      "target": 36,
+      "sha256": "ad79abe970d1b4b61ba74ec9b8749db0022d14e16a981b4008b3cc7056367b8d",
+      "PS1_target": 36,
+      "Pocket_target": 36
+    },
+    {
+      "family": "Fire",
+      "source": 145,
+      "target": 128,
+      "sha256": "67bc5ddb2b816487503c0fdd40e3f8be45aa7531cc74f77a20d76a5e8cdd8b19",
+      "PS1_target": 128,
+      "Pocket_target": 128
+    },
+    {
+      "family": "Wind",
+      "source": 234,
+      "target": 235,
+      "sha256": "fc0b30949fdb45beac07962a95434b757e89f1dc9b8f8f69b10f50b1300946ca",
+      "PS1_target": 235,
+      "Pocket_target": 235
+    },
+    {
+      "family": "Wind",
+      "source": 211,
+      "target": 214,
+      "sha256": "c5540258799b69349cc183bf4f9d6eded90e5551207200e25a36578ee96c4c4b",
+      "PS1_target": 214,
+      "Pocket_target": 214
+    },
+    {
+      "family": "Wind",
+      "source": 41,
+      "target": 214,
+      "sha256": "198127cdc10a17b6b845818ea3ecb0fc7d477f3f9ddd1f934ec7882278c780a9",
+      "PS1_target": 214,
+      "Pocket_target": 214
+    },
+    {
+      "family": "Wind",
+      "source": 144,
+      "target": 214,
+      "sha256": "7d52582716271c395cfcefefb5b487c3dca288b6aa6e1dab86fd96084e826a09",
+      "PS1_target": 214,
+      "Pocket_target": 214
+    },
+    {
+      "family": "Wind",
+      "source": 66,
+      "target": 236,
+      "sha256": "4c5a86e5580dc5e0562f527c597bb8efc54fe47ad6ad39fc30af868553f7f2b8",
+      "PS1_target": 236,
+      "Pocket_target": 236
+    },
+    {
+      "family": "Wind",
+      "source": 33,
+      "target": 13,
+      "sha256": "902fb4538e3829080f075aca2e5968929904354b5abd5a38bfbf4aa4b96e3699",
+      "PS1_target": 13,
+      "Pocket_target": 13
+    },
+    {
+      "family": "Wind",
+      "source": 37,
+      "target": 13,
+      "sha256": "911d8ed416f45c24b58c9e697a6373b7b4fb464d1ec0f4e2ef69c3e047bec926",
+      "PS1_target": 13,
+      "Pocket_target": 13
+    },
+    {
+      "family": "Wind",
+      "source": 33,
+      "target": 144,
+      "sha256": "d41ed9240f34f24d52013b2465b2f97f464c21e499f6a5b70b002a8e46e867f2",
+      "PS1_target": 144,
+      "Pocket_target": 144
+    },
+    {
+      "family": "Wind",
+      "source": 37,
+      "target": 144,
+      "sha256": "3ab73210fa4814de2408880fa9764604dbf53e1d9bfcadd2341f3bce2dc2da0e",
+      "PS1_target": 144,
+      "Pocket_target": 144
+    },
+    {
+      "family": "Wind",
+      "source": 20,
+      "target": 211,
+      "sha256": "81a07a81ae7110eebf51482e4f15c581b97e1cfc68a860064d00b82462787b08",
+      "PS1_target": 211,
+      "Pocket_target": 211
+    },
+    {
+      "family": "Wind",
+      "source": 6,
+      "target": 211,
+      "sha256": "ecf3238ab7e6e9e96d811c00d49aa49ce051402d9cca27edcab1232d5163193e",
+      "PS1_target": 211,
+      "Pocket_target": 211
+    },
+    {
+      "family": "Wind",
+      "source": 37,
+      "target": 211,
+      "sha256": "7f3c0e42a00dc3634a2319e8579340e2bb1c8318617220f6300fb2029a6e7513",
+      "PS1_target": 211,
+      "Pocket_target": 211
+    },
+    {
+      "family": "Wind",
+      "source": 6,
+      "target": 66,
+      "sha256": "ac6d1ce863a5f51fc16f26333f1b4d634684bbdd0a747854f3b4668761972f98",
+      "PS1_target": 66,
+      "Pocket_target": 66
+    },
+    {
+      "family": "Wind",
+      "source": 7,
+      "target": 66,
+      "sha256": "2ad99f123968e2edc6775031a7a8e89c3adbd31ebb275b7b39e61fafd78a71eb",
+      "PS1_target": 66,
+      "Pocket_target": 66
+    },
+    {
+      "family": "Wind",
+      "source": 137,
+      "target": 66,
+      "sha256": "60959685aa2947748d781fd132bf5604347934a69b118213cc01de9ff064e216",
+      "PS1_target": 66,
+      "Pocket_target": 66
+    },
+    {
+      "family": "Wind",
+      "source": 7,
+      "target": 41,
+      "sha256": "4e55d82155b2a28c444feefe31a8020451981819a241c2c2901db9ba3fa9fb31",
+      "PS1_target": 41,
+      "Pocket_target": 41
+    },
+    {
+      "family": "Wind",
+      "source": 37,
+      "target": 41,
+      "sha256": "c7b8f5067636397ff97cf29a586e672a949abd03e4f13efa35fba98e8598bd02",
+      "PS1_target": 41,
+      "Pocket_target": 41
+    },
+    {
+      "family": "Wind",
+      "source": 137,
+      "target": 41,
+      "sha256": "3edd43fa3da079e05ea761d886bd7846844dcc8e7a446e85d2528533a459d322",
+      "PS1_target": 41,
+      "Pocket_target": 41
+    },
+    {
+      "family": "Wind",
+      "source": 33,
+      "target": 14,
+      "sha256": "8648a245f9e253199290021db1067c890e62e062b39caad2245bfb7d8d999114",
+      "PS1_target": 14,
+      "Pocket_target": 14
+    },
+    {
+      "family": "Wind",
+      "source": 6,
+      "target": 14,
+      "sha256": "bd6c3c2f5a24ee0bc39d80ae74457c2a10041a5c294f1bf6f26374cf641a0a44",
+      "PS1_target": 14,
+      "Pocket_target": 14
+    },
+    {
+      "family": "Wind",
+      "source": 137,
+      "target": 14,
+      "sha256": "dce4d6deeedadd235f80650447961ba62c7fb7af83400ddcae813fead1d2d43f",
+      "PS1_target": 14,
+      "Pocket_target": 14
+    },
+    {
+      "family": "Wind",
+      "source": 7,
+      "target": 14,
+      "sha256": "f6885f23dcf5725c63b4a88e07b4e9014041dd157980051a07d7e83632dd16cd",
+      "PS1_target": 14,
+      "Pocket_target": 14
+    },
+    {
+      "family": "Wind",
+      "source": 37,
+      "target": 14,
+      "sha256": "55e74ae6a94ea9eb1dbc50fb6007dcd99549e8f66310d008789949aece55a01b",
+      "PS1_target": 14,
+      "Pocket_target": 14
+    },
+    {
+      "family": "Wind",
+      "source": 31,
+      "target": 211,
+      "sha256": "b1a8d99057fdc1c24733864ffc47d33cea4b572675dbc1d546cae5906da7c40e",
+      "PS1_target": 211,
+      "Pocket_target": 211
+    },
+    {
+      "family": "Wind",
+      "source": 31,
+      "target": 20,
+      "sha256": "fb02239a1d70757c8dd85d8a2152b0dd27ad4b7211c828e111dfaf4e09a13488",
+      "PS1_target": 20,
+      "Pocket_target": 20
+    },
+    {
+      "family": "Wind",
+      "source": 31,
+      "target": 33,
+      "sha256": "9c177d437150cb5069404e1361436e5547e98aa23b0d2659e93fb79369856fb3",
+      "PS1_target": 33,
+      "Pocket_target": 33
+    },
+    {
+      "family": "Wind",
+      "source": 31,
+      "target": 6,
+      "sha256": "162fdbb1f5dc1e736e19758b51f45537c7d1ebf4bbef33429daf99333c6a882d",
+      "PS1_target": 6,
+      "Pocket_target": 6
+    },
+    {
+      "family": "Wind",
+      "source": 32,
+      "target": 66,
+      "sha256": "173f6166eaf21a510792f43e58726cd6d252b3f97993f7b5ea222db2d0429559",
+      "PS1_target": 66,
+      "Pocket_target": 66
+    },
+    {
+      "family": "Wind",
+      "source": 32,
+      "target": 137,
+      "sha256": "8fdaade50d44a10ac9a9d4c37a7d803db61df4cbf58338bc53c7cea0f045255c",
+      "PS1_target": 137,
+      "Pocket_target": 137
+    },
+    {
+      "family": "Wind",
+      "source": 32,
+      "target": 7,
+      "sha256": "3f08923162144d6c0992a775d55086b83034c84ad67ebbb21737811771b6bf38",
+      "PS1_target": 7,
+      "Pocket_target": 7
+    },
+    {
+      "family": "Wind",
+      "source": 32,
+      "target": 37,
+      "sha256": "6b72fc729f16ed592b61f2576e031e9995c43f7554294932bc33b88a7656edb4",
+      "PS1_target": 37,
+      "Pocket_target": 37
+    },
+    {
+      "family": "Wind",
+      "source": 233,
+      "target": 13,
+      "sha256": "210cc66d43c17f3a3dbcb3943ff76187bf4f929ad73801865e9356e2b0898df0",
+      "PS1_target": 13,
+      "Pocket_target": 13
+    },
+    {
+      "family": "Wind",
+      "source": 233,
+      "target": 14,
+      "sha256": "05f850f9a00e58d1c05b2258efd07a8a829e32d81ba636a49fd73cf4ca809279",
+      "PS1_target": 14,
+      "Pocket_target": 14
+    },
+    {
+      "family": "Wind",
+      "source": 233,
+      "target": 234,
+      "sha256": "ed76f681d7783f2ab5eb296d3e2c02e13ce8f79a26cddd5edc0d3ab1acec4dee",
+      "PS1_target": 234,
+      "Pocket_target": 234
+    },
+    {
+      "family": "Wind",
+      "source": 31,
+      "target": 11,
+      "sha256": "ad69cc73ac0ab550e413d5a71ebfbc6c7b7a3bec06bcd3f752f114cb6bfe4ba2",
+      "PS1_target": 11,
+      "Pocket_target": 11
+    },
+    {
+      "family": "Wind",
+      "source": 32,
+      "target": 11,
+      "sha256": "a9ccd0282adbc9f7b474dca45d5e4032e3844bc0a0664832b35123e4543dcbf5",
+      "PS1_target": 11,
+      "Pocket_target": 11
+    },
+    {
+      "family": "Cool",
+      "source": 183,
+      "target": 196,
+      "sha256": "5904166d2aba4f4ad01f269818e2634f67662f65ee7015b3b3c10c1275d4bca7",
+      "PS1_target": 196,
+      "Pocket_target": 196
+    },
+    {
+      "family": "Cool",
+      "source": 185,
+      "target": 232,
+      "sha256": "bf26f1d482dc54718542830b6755732c1b77c776b7deeb13f0c0b8e57076a70a",
+      "PS1_target": 232,
+      "Pocket_target": 232
+    },
+    {
+      "family": "Cool",
+      "source": 224,
+      "target": 232,
+      "sha256": "556d73778c7ee0bd854ad99039d63daba988e1f438d4156e871b1121e801d152",
+      "PS1_target": 232,
+      "Pocket_target": 232
+    },
+    {
+      "family": "Cool",
+      "source": 144,
+      "target": 232,
+      "sha256": "5a74f0c217be8d3125435b9cb95267605f3b939cbb30e11d498b32b6aab28b61",
+      "PS1_target": 232,
+      "Pocket_target": 232
+    },
+    {
+      "family": "Cool",
+      "source": 224,
+      "target": 204,
+      "sha256": "7d013dbcb883f89da40d1a8d1b219341d9a652b2f0e445f999751b189271021f",
+      "PS1_target": 204,
+      "Pocket_target": 204
+    },
+    {
+      "family": "Cool",
+      "source": 61,
+      "target": 204,
+      "sha256": "f539074c9dd135410aa0f540951ae3cb5584d536b04156c7646984552e25bd1a",
+      "PS1_target": 204,
+      "Pocket_target": 204
+    },
+    {
+      "family": "Cool",
+      "source": 10,
+      "target": 61,
+      "sha256": "ebbc585551f8f2498dae3e6a300e534f411ce60f22c489767a481f6826438b04",
+      "PS1_target": 61,
+      "Pocket_target": 61
+    },
+    {
+      "family": "Cool",
+      "source": 210,
+      "target": 61,
+      "sha256": "263cdc8881a3e3633d7a749ae3e2013d111cea3fed7e0eece886c768adb447ab",
+      "PS1_target": 61,
+      "Pocket_target": 61
+    },
+    {
+      "family": "Cool",
+      "source": 24,
+      "target": 61,
+      "sha256": "e9f30af1c45ed2ab1599933be303025f36237d15d4a3b64d6563fbaa8e10897d",
+      "PS1_target": 61,
+      "Pocket_target": 61
+    },
+    {
+      "family": "Cool",
+      "source": 22,
+      "target": 183,
+      "sha256": "b8f8bbc8c4f4c1277b2023e1ff69cde1516d9156cb8385703dc304ad6ee00b9b",
+      "PS1_target": 183,
+      "Pocket_target": 183
+    },
+    {
+      "family": "Cool",
+      "source": 209,
+      "target": 185,
+      "sha256": "8ee53d9e77ba18d27e1d1ecf1da2c7c64a3d6a6708ba383878c4e3962444df99",
+      "PS1_target": 185,
+      "Pocket_target": 185
+    },
+    {
+      "family": "Cool",
+      "source": 210,
+      "target": 224,
+      "sha256": "5d35a29b8d72e5ac30f076bf47d87a3b0a6699499fc534bbbdf02a5b37a8c5ad",
+      "PS1_target": 224,
+      "Pocket_target": 224
+    },
+    {
+      "family": "Cool",
+      "source": 24,
+      "target": 224,
+      "sha256": "499caec459b6e5196193a5c6a85a4ad5d76c7cf9c0e23b9464da3b9a5e47bcc6",
+      "PS1_target": 224,
+      "Pocket_target": 224
+    },
+    {
+      "family": "Cool",
+      "source": 210,
+      "target": 144,
+      "sha256": "55330dac048ae92ff9be058db0227cdf6cdd0bd453c101c32e652f6d2127f9e3",
+      "PS1_target": 144,
+      "Pocket_target": 144
+    },
+    {
+      "family": "Cool",
+      "source": 24,
+      "target": 144,
+      "sha256": "5803a9e95d5eff4e17f27567c902f066b6e39f3531e0649e0d90294c6791bde3",
+      "PS1_target": 144,
+      "Pocket_target": 144
+    },
+    {
+      "family": "Cool",
+      "source": 17,
+      "target": 10,
+      "sha256": "57d902460cb416beabbcb019522f40b304d3157cf7e74209c651e0489dfe3094",
+      "PS1_target": 10,
+      "Pocket_target": 10
+    },
+    {
+      "family": "Cool",
+      "source": 17,
+      "target": 210,
+      "sha256": "7f6d27a84fe17793e8a420eb80e9445efb0e04279f9e94b9982e243d640f65d8",
+      "PS1_target": 210,
+      "Pocket_target": 210
+    },
+    {
+      "family": "Cool",
+      "source": 17,
+      "target": 22,
+      "sha256": "d53db4c9e5e022eb63dd910a4bf31685f4afc6e89e6c9997db0cddaafc9fd4cd",
+      "PS1_target": 22,
+      "Pocket_target": 22
+    },
+    {
+      "family": "Cool",
+      "source": 17,
+      "target": 183,
+      "sha256": "8865e04d7a518db62c18df68246555da8afa5840345c384ea34bee952df1f4ea",
+      "PS1_target": 183,
+      "Pocket_target": 183
+    },
+    {
+      "family": "Cool",
+      "source": 182,
+      "target": 10,
+      "sha256": "2d822b259b03008af0da5fb3f526ce832e5ea7b8b08a4906b32b27fd8b2591ff",
+      "PS1_target": 10,
+      "Pocket_target": 10
+    },
+    {
+      "family": "Cool",
+      "source": 182,
+      "target": 24,
+      "sha256": "93a2c2d636c42d9a9025d8cb9345c602cf673babe3ebaa2b5ab40163404472f2",
+      "PS1_target": 24,
+      "Pocket_target": 24
+    },
+    {
+      "family": "Cool",
+      "source": 182,
+      "target": 209,
+      "sha256": "22ac6019b3dec893d0e5d5cb8107f1e241c68256318228cefd75a7fba955e301",
+      "PS1_target": 209,
+      "Pocket_target": 209
+    },
+    {
+      "family": "Cool",
+      "source": 182,
+      "target": 185,
+      "sha256": "e5f056750bf5c0c99728a74d09c4d7b8ac938835434948c4992c44d609f73bdf",
+      "PS1_target": 185,
+      "Pocket_target": 185
+    },
+    {
+      "family": "Cool",
+      "source": 17,
+      "target": 11,
+      "sha256": "2d64c0000b759aef8a9e411e14acda24d4fa4e6b9b53f84eec9b8d3f4304e596",
+      "PS1_target": 11,
+      "Pocket_target": 11
+    },
+    {
+      "family": "Cool",
+      "source": 182,
+      "target": 11,
+      "sha256": "e0abe7a6cf7a9e38b422f6acc321ff34f35ecf712fa86133f8b7a5d210115198",
+      "PS1_target": 11,
+      "Pocket_target": 11
+    },
+    {
+      "family": "Nature",
+      "source": 181,
+      "target": 60,
+      "sha256": "d80b5f1d7f03278e672d08c32504ac7ebc6023c04898b37fd1edcbd1e58418cf",
+      "PS1_target": 60,
+      "Pocket_target": 60
+    },
+    {
+      "family": "Nature",
+      "source": 186,
+      "target": 146,
+      "sha256": "9c6485cdee99a90d780d236ef781810433af889c00996aa33bdb98cef64d8db2",
+      "PS1_target": 146,
+      "Pocket_target": 146
+    },
+    {
+      "family": "Nature",
+      "source": 42,
+      "target": 65,
+      "sha256": "5f7853b708cec52bb85683a57471bd52d7d757383f569f19f433d094102c9db8",
+      "PS1_target": 65,
+      "Pocket_target": 65
+    },
+    {
+      "family": "Nature",
+      "source": 144,
+      "target": 146,
+      "sha256": "39980e731efdb53f372dc3bc8029b96a9c0582e981077505aa58a08305a8758b",
+      "PS1_target": 146,
+      "Pocket_target": 146
+    },
+    {
+      "family": "Nature",
+      "source": 40,
+      "target": 65,
+      "sha256": "c1c255e9b17e75e3df80ed833ff7b52182dd39758f0be7b991b287e14247f780",
+      "PS1_target": 65,
+      "Pocket_target": 65
+    },
+    {
+      "family": "Nature",
+      "source": 40,
+      "target": 146,
+      "sha256": "95bc69ee557bc941adbf2fb74314808fcb0da7bbb11b7dbd0432bed1cd7541d1",
+      "PS1_target": 146,
+      "Pocket_target": 146
+    },
+    {
+      "family": "Nature",
+      "source": 34,
+      "target": 40,
+      "sha256": "5a0bca0c742533f56d01a60009eda3b86ba2401a3f099019061f161390e12142",
+      "PS1_target": 40,
+      "Pocket_target": 40
+    },
+    {
+      "family": "Nature",
+      "source": 134,
+      "target": 40,
+      "sha256": "945571ded6cf97bc2ba0a9cee327ca9575e710638ac5db4dcea2fa58c29f8479",
+      "PS1_target": 40,
+      "Pocket_target": 40
+    },
+    {
+      "family": "Nature",
+      "source": 48,
+      "target": 40,
+      "sha256": "660501cbc3cb970260764b53c9f0d1d5eb00deef6d5a067dedc89c3853f2f2f3",
+      "PS1_target": 40,
+      "Pocket_target": 40
+    },
+    {
+      "family": "Nature",
+      "source": 134,
+      "target": 42,
+      "sha256": "523ec79d9f046f51023a9ba76b735e97a4fb528ad38785211197d91f65488589",
+      "PS1_target": 42,
+      "Pocket_target": 42
+    },
+    {
+      "family": "Nature",
+      "source": 48,
+      "target": 42,
+      "sha256": "f1f1ddb46e26f3a29a8a89159528f5eb8051c74a80193cd59765335839361a7d",
+      "PS1_target": 42,
+      "Pocket_target": 42
+    },
+    {
+      "family": "Nature",
+      "source": 19,
+      "target": 181,
+      "sha256": "539c6db7de7855dc080a28b26b0544024de2d7e7c19c52ee0bc5d8f4af6a9d81",
+      "PS1_target": 181,
+      "Pocket_target": 181
+    },
+    {
+      "family": "Nature",
+      "source": 51,
+      "target": 186,
+      "sha256": "0fbb80bbdcf062b7b9dc71cca9c3aa4a55ad7186c38a6d1c7e6fa863f649932a",
+      "PS1_target": 186,
+      "Pocket_target": 186
+    },
+    {
+      "family": "Nature",
+      "source": 134,
+      "target": 144,
+      "sha256": "53d55f84960ee65a39d340724a097d328cecce11a2043c61bf85338fb690d559",
+      "PS1_target": 144,
+      "Pocket_target": 144
+    },
+    {
+      "family": "Nature",
+      "source": 48,
+      "target": 144,
+      "sha256": "a6443a4094038a32cacb7e6936b006c3a852f1b65073578357ecc68ecf296b7b",
+      "PS1_target": 144,
+      "Pocket_target": 144
+    },
+    {
+      "family": "Nature",
+      "source": 111,
+      "target": 34,
+      "sha256": "d35bc00a0aad3ca49594be62aa61de5e3602e7816a2bdcb1df7ab253b4cd7fe4",
+      "PS1_target": 34,
+      "Pocket_target": 34
+    },
+    {
+      "family": "Nature",
+      "source": 111,
+      "target": 134,
+      "sha256": "57f7be5a8b53bb7e0b14ae1d35a02bacd9f094e57d1a4dcbde1885f0834ecb61",
+      "PS1_target": 134,
+      "Pocket_target": 134
+    },
+    {
+      "family": "Nature",
+      "source": 111,
+      "target": 19,
+      "sha256": "15adc41c9c20518dd1bf9d3877c14f75e1e80f74b0651667716d65c8ab2413d7",
+      "PS1_target": 19,
+      "Pocket_target": 19
+    },
+    {
+      "family": "Nature",
+      "source": 111,
+      "target": 181,
+      "sha256": "371f6f6ebd2fcec37a0b4f4b075642d6f40f17ba92477ef780963bdf623e0138",
+      "PS1_target": 181,
+      "Pocket_target": 181
+    },
+    {
+      "family": "Nature",
+      "source": 46,
+      "target": 34,
+      "sha256": "8baae562f6fd6bf51fb248f43fe49ab181405df456a2b575fb560563fe9b46ae",
+      "PS1_target": 34,
+      "Pocket_target": 34
+    },
+    {
+      "family": "Nature",
+      "source": 46,
+      "target": 48,
+      "sha256": "8cb425e3aa7d749b268ebd6353cbe3b191d6c5d2f86611219454aae1e0197995",
+      "PS1_target": 48,
+      "Pocket_target": 48
+    },
+    {
+      "family": "Nature",
+      "source": 46,
+      "target": 51,
+      "sha256": "a797182ed565043783e4c8063b2a6a660f338bc6bd0b34d412739f35adfa6fec",
+      "PS1_target": 51,
+      "Pocket_target": 51
+    },
+    {
+      "family": "Nature",
+      "source": 46,
+      "target": 186,
+      "sha256": "e4036851df8b476976c8cc07e4ea9d13c5bea65791eff1600dce492a1bf67b84",
+      "PS1_target": 186,
+      "Pocket_target": 186
+    },
+    {
+      "family": "Nature",
+      "source": 111,
+      "target": 11,
+      "sha256": "7761d9ef05812ea237fd8412c42589e773aa9e04df0f0a49e4c23df5d321bff0",
+      "PS1_target": 11,
+      "Pocket_target": 11
+    },
+    {
+      "family": "Nature",
+      "source": 46,
+      "target": 11,
+      "sha256": "d603d9e30c9a58d4a0d162ee050d2488959cddb2007fa7b9be17e19ae9777a82",
+      "PS1_target": 11,
+      "Pocket_target": 11
+    }
+  ]
+}

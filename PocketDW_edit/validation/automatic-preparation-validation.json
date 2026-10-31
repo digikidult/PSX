@@ -1,0 +1,1886 @@
+{
+  "status": "passed",
+  "checks": 273,
+  "stressCases": {
+    "prepared": 125,
+    "blocked": 0
+  },
+  "pairs": [
+    {
+      "family": "Fire",
+      "source": 12,
+      "target": 213,
+      "file": "Fire-12-to-213-prepared.mcd",
+      "selectedPriority": 2,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 180,
+      "target": 143,
+      "file": "Fire-180-to-143-prepared.mcd",
+      "selectedPriority": 4,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 5
+    },
+    {
+      "family": "Fire",
+      "source": 140,
+      "target": 115,
+      "file": "Fire-140-to-115-prepared.mcd",
+      "selectedPriority": 6,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 54,
+      "target": 115,
+      "file": "Fire-54-to-115-prepared.mcd",
+      "selectedPriority": 8,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 144,
+      "target": 115,
+      "file": "Fire-144-to-115-prepared.mcd",
+      "selectedPriority": 10,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 187,
+      "target": 59,
+      "file": "Fire-187-to-59-prepared.mcd",
+      "selectedPriority": 12,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 5,
+      "target": 12,
+      "file": "Fire-5-to-12-prepared.mcd",
+      "selectedPriority": 13,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 36,
+      "target": 12,
+      "file": "Fire-36-to-12-prepared.mcd",
+      "selectedPriority": 14,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 128,
+      "target": 12,
+      "file": "Fire-128-to-12-prepared.mcd",
+      "selectedPriority": 15,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 5,
+      "target": 26,
+      "file": "Fire-5-to-26-prepared.mcd",
+      "selectedPriority": 16,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 9
+    },
+    {
+      "family": "Fire",
+      "source": 47,
+      "target": 26,
+      "file": "Fire-47-to-26-prepared.mcd",
+      "selectedPriority": 17,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 9
+    },
+    {
+      "family": "Fire",
+      "source": 9,
+      "target": 26,
+      "file": "Fire-9-to-26-prepared.mcd",
+      "selectedPriority": 18,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 9
+    },
+    {
+      "family": "Fire",
+      "source": 21,
+      "target": 26,
+      "file": "Fire-21-to-26-prepared.mcd",
+      "selectedPriority": 19,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 9
+    },
+    {
+      "family": "Fire",
+      "source": 36,
+      "target": 26,
+      "file": "Fire-36-to-26-prepared.mcd",
+      "selectedPriority": 20,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 9
+    },
+    {
+      "family": "Fire",
+      "source": 133,
+      "target": 26,
+      "file": "Fire-133-to-26-prepared.mcd",
+      "selectedPriority": 21,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 9
+    },
+    {
+      "family": "Fire",
+      "source": 128,
+      "target": 26,
+      "file": "Fire-128-to-26-prepared.mcd",
+      "selectedPriority": 22,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 9
+    },
+    {
+      "family": "Fire",
+      "source": 5,
+      "target": 144,
+      "file": "Fire-5-to-144-prepared.mcd",
+      "selectedPriority": 23,
+      "history": {
+        "hybridAttributes": 15,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 133,
+      "target": 144,
+      "file": "Fire-133-to-144-prepared.mcd",
+      "selectedPriority": 25,
+      "history": {
+        "hybridAttributes": 15,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 8,
+      "target": 180,
+      "file": "Fire-8-to-180-prepared.mcd",
+      "selectedPriority": 27,
+      "history": {
+        "hybridAttributes": 12,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Fire",
+      "source": 128,
+      "target": 180,
+      "file": "Fire-128-to-180-prepared.mcd",
+      "selectedPriority": 28,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 5
+    },
+    {
+      "family": "Fire",
+      "source": 8,
+      "target": 140,
+      "file": "Fire-8-to-140-prepared.mcd",
+      "selectedPriority": 29,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Fire",
+      "source": 47,
+      "target": 140,
+      "file": "Fire-47-to-140-prepared.mcd",
+      "selectedPriority": 30,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Fire",
+      "source": 133,
+      "target": 140,
+      "file": "Fire-133-to-140-prepared.mcd",
+      "selectedPriority": 31,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Fire",
+      "source": 47,
+      "target": 187,
+      "file": "Fire-47-to-187-prepared.mcd",
+      "selectedPriority": 32,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 21,
+      "target": 187,
+      "file": "Fire-21-to-187-prepared.mcd",
+      "selectedPriority": 33,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 9,
+      "target": 187,
+      "file": "Fire-9-to-187-prepared.mcd",
+      "selectedPriority": 34,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 21,
+      "target": 54,
+      "file": "Fire-21-to-54-prepared.mcd",
+      "selectedPriority": 35,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 4,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 9
+    },
+    {
+      "family": "Fire",
+      "source": 36,
+      "target": 54,
+      "file": "Fire-36-to-54-prepared.mcd",
+      "selectedPriority": 36,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 4,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 9
+    },
+    {
+      "family": "Fire",
+      "source": 9,
+      "target": 54,
+      "file": "Fire-9-to-54-prepared.mcd",
+      "selectedPriority": 37,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 4,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 9
+    },
+    {
+      "family": "Fire",
+      "source": 3,
+      "target": 5,
+      "file": "Fire-3-to-5-prepared.mcd",
+      "selectedPriority": 38,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Fire",
+      "source": 3,
+      "target": 8,
+      "file": "Fire-3-to-8-prepared.mcd",
+      "selectedPriority": 39,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Fire",
+      "source": 3,
+      "target": 47,
+      "file": "Fire-3-to-47-prepared.mcd",
+      "selectedPriority": 40,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Fire",
+      "source": 145,
+      "target": 47,
+      "file": "Fire-145-to-47-prepared.mcd",
+      "selectedPriority": 41,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Fire",
+      "source": 45,
+      "target": 9,
+      "file": "Fire-45-to-9-prepared.mcd",
+      "selectedPriority": 42,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 2,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 45,
+      "target": 21,
+      "file": "Fire-45-to-21-prepared.mcd",
+      "selectedPriority": 43,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Fire",
+      "source": 45,
+      "target": 36,
+      "file": "Fire-45-to-36-prepared.mcd",
+      "selectedPriority": 44,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Fire",
+      "source": 145,
+      "target": 133,
+      "file": "Fire-145-to-133-prepared.mcd",
+      "selectedPriority": 45,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 4,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Fire",
+      "source": 145,
+      "target": 36,
+      "file": "Fire-145-to-36-prepared.mcd",
+      "selectedPriority": 46,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Fire",
+      "source": 145,
+      "target": 128,
+      "file": "Fire-145-to-128-prepared.mcd",
+      "selectedPriority": 47,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 3,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 234,
+      "target": 235,
+      "file": "Wind-234-to-235-prepared.mcd",
+      "selectedPriority": 2,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 5
+    },
+    {
+      "family": "Wind",
+      "source": 211,
+      "target": 214,
+      "file": "Wind-211-to-214-prepared.mcd",
+      "selectedPriority": 4,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 41,
+      "target": 214,
+      "file": "Wind-41-to-214-prepared.mcd",
+      "selectedPriority": 5,
+      "history": {
+        "hybridAttributes": 12,
+        "hybridCount": 4,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 10
+    },
+    {
+      "family": "Wind",
+      "source": 144,
+      "target": 214,
+      "file": "Wind-144-to-214-prepared.mcd",
+      "selectedPriority": 7,
+      "history": {
+        "hybridAttributes": 15,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 66,
+      "target": 236,
+      "file": "Wind-66-to-236-prepared.mcd",
+      "selectedPriority": 9,
+      "history": {
+        "hybridAttributes": 12,
+        "hybridCount": 1,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 9
+    },
+    {
+      "family": "Wind",
+      "source": 33,
+      "target": 13,
+      "file": "Wind-33-to-13-prepared.mcd",
+      "selectedPriority": 11,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 37,
+      "target": 13,
+      "file": "Wind-37-to-13-prepared.mcd",
+      "selectedPriority": 12,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 33,
+      "target": 144,
+      "file": "Wind-33-to-144-prepared.mcd",
+      "selectedPriority": 13,
+      "history": {
+        "hybridAttributes": 15,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 37,
+      "target": 144,
+      "file": "Wind-37-to-144-prepared.mcd",
+      "selectedPriority": 15,
+      "history": {
+        "hybridAttributes": 15,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 20,
+      "target": 211,
+      "file": "Wind-20-to-211-prepared.mcd",
+      "selectedPriority": 17,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 5
+    },
+    {
+      "family": "Wind",
+      "source": 6,
+      "target": 211,
+      "file": "Wind-6-to-211-prepared.mcd",
+      "selectedPriority": 18,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Wind",
+      "source": 37,
+      "target": 211,
+      "file": "Wind-37-to-211-prepared.mcd",
+      "selectedPriority": 19,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Wind",
+      "source": 6,
+      "target": 66,
+      "file": "Wind-6-to-66-prepared.mcd",
+      "selectedPriority": 20,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Wind",
+      "source": 7,
+      "target": 66,
+      "file": "Wind-7-to-66-prepared.mcd",
+      "selectedPriority": 21,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 137,
+      "target": 66,
+      "file": "Wind-137-to-66-prepared.mcd",
+      "selectedPriority": 22,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 7,
+      "target": 41,
+      "file": "Wind-7-to-41-prepared.mcd",
+      "selectedPriority": 23,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 4,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 37,
+      "target": 41,
+      "file": "Wind-37-to-41-prepared.mcd",
+      "selectedPriority": 24,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 4,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 137,
+      "target": 41,
+      "file": "Wind-137-to-41-prepared.mcd",
+      "selectedPriority": 25,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 4,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 33,
+      "target": 14,
+      "file": "Wind-33-to-14-prepared.mcd",
+      "selectedPriority": 26,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 6,
+      "target": 14,
+      "file": "Wind-6-to-14-prepared.mcd",
+      "selectedPriority": 27,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 137,
+      "target": 14,
+      "file": "Wind-137-to-14-prepared.mcd",
+      "selectedPriority": 28,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Wind",
+      "source": 7,
+      "target": 14,
+      "file": "Wind-7-to-14-prepared.mcd",
+      "selectedPriority": 29,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Wind",
+      "source": 37,
+      "target": 14,
+      "file": "Wind-37-to-14-prepared.mcd",
+      "selectedPriority": 30,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Wind",
+      "source": 31,
+      "target": 211,
+      "file": "Wind-31-to-211-prepared.mcd",
+      "selectedPriority": 31,
+      "history": {
+        "hybridAttributes": 12,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Wind",
+      "source": 31,
+      "target": 20,
+      "file": "Wind-31-to-20-prepared.mcd",
+      "selectedPriority": 32,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Wind",
+      "source": 31,
+      "target": 33,
+      "file": "Wind-31-to-33-prepared.mcd",
+      "selectedPriority": 33,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Wind",
+      "source": 31,
+      "target": 6,
+      "file": "Wind-31-to-6-prepared.mcd",
+      "selectedPriority": 34,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Wind",
+      "source": 32,
+      "target": 66,
+      "file": "Wind-32-to-66-prepared.mcd",
+      "selectedPriority": 35,
+      "history": {
+        "hybridAttributes": 12,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Wind",
+      "source": 32,
+      "target": 137,
+      "file": "Wind-32-to-137-prepared.mcd",
+      "selectedPriority": 36,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 6
+    },
+    {
+      "family": "Wind",
+      "source": 32,
+      "target": 7,
+      "file": "Wind-32-to-7-prepared.mcd",
+      "selectedPriority": 37,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Wind",
+      "source": 32,
+      "target": 37,
+      "file": "Wind-32-to-37-prepared.mcd",
+      "selectedPriority": 38,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Wind",
+      "source": 233,
+      "target": 13,
+      "file": "Wind-233-to-13-prepared.mcd",
+      "selectedPriority": 39,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 8
+    },
+    {
+      "family": "Wind",
+      "source": 233,
+      "target": 14,
+      "file": "Wind-233-to-14-prepared.mcd",
+      "selectedPriority": 40,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 7
+    },
+    {
+      "family": "Wind",
+      "source": 233,
+      "target": 234,
+      "file": "Wind-233-to-234-prepared.mcd",
+      "selectedPriority": 41,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 5
+    },
+    {
+      "family": "Wind",
+      "source": 31,
+      "target": 11,
+      "file": "Wind-31-to-11-prepared.mcd",
+      "selectedPriority": 42,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 90,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Wind",
+      "source": 32,
+      "target": 11,
+      "file": "Wind-32-to-11-prepared.mcd",
+      "selectedPriority": 43,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 90,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Cool",
+      "source": 183,
+      "target": 196,
+      "file": "Cool-183-to-196-prepared.mcd",
+      "selectedPriority": 1,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 1
+    },
+    {
+      "family": "Cool",
+      "source": 185,
+      "target": 232,
+      "file": "Cool-185-to-232-prepared.mcd",
+      "selectedPriority": 3,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Cool",
+      "source": 224,
+      "target": 232,
+      "file": "Cool-224-to-232-prepared.mcd",
+      "selectedPriority": 4,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Cool",
+      "source": 144,
+      "target": 232,
+      "file": "Cool-144-to-232-prepared.mcd",
+      "selectedPriority": 7,
+      "history": {
+        "hybridAttributes": 3,
+        "hybridCount": 1,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Cool",
+      "source": 224,
+      "target": 204,
+      "file": "Cool-224-to-204-prepared.mcd",
+      "selectedPriority": 8,
+      "history": {
+        "hybridAttributes": 3,
+        "hybridCount": 1,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Cool",
+      "source": 61,
+      "target": 204,
+      "file": "Cool-61-to-204-prepared.mcd",
+      "selectedPriority": 10,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Cool",
+      "source": 10,
+      "target": 61,
+      "file": "Cool-10-to-61-prepared.mcd",
+      "selectedPriority": 11,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Cool",
+      "source": 210,
+      "target": 61,
+      "file": "Cool-210-to-61-prepared.mcd",
+      "selectedPriority": 12,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Cool",
+      "source": 24,
+      "target": 61,
+      "file": "Cool-24-to-61-prepared.mcd",
+      "selectedPriority": 13,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Cool",
+      "source": 22,
+      "target": 183,
+      "file": "Cool-22-to-183-prepared.mcd",
+      "selectedPriority": 14,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 1
+    },
+    {
+      "family": "Cool",
+      "source": 209,
+      "target": 185,
+      "file": "Cool-209-to-185-prepared.mcd",
+      "selectedPriority": 15,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 1
+    },
+    {
+      "family": "Cool",
+      "source": 210,
+      "target": 224,
+      "file": "Cool-210-to-224-prepared.mcd",
+      "selectedPriority": 16,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Cool",
+      "source": 24,
+      "target": 224,
+      "file": "Cool-24-to-224-prepared.mcd",
+      "selectedPriority": 17,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Cool",
+      "source": 210,
+      "target": 144,
+      "file": "Cool-210-to-144-prepared.mcd",
+      "selectedPriority": 18,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Cool",
+      "source": 24,
+      "target": 144,
+      "file": "Cool-24-to-144-prepared.mcd",
+      "selectedPriority": 19,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Cool",
+      "source": 17,
+      "target": 10,
+      "file": "Cool-17-to-10-prepared.mcd",
+      "selectedPriority": 22,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Cool",
+      "source": 17,
+      "target": 210,
+      "file": "Cool-17-to-210-prepared.mcd",
+      "selectedPriority": 23,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Cool",
+      "source": 17,
+      "target": 22,
+      "file": "Cool-17-to-22-prepared.mcd",
+      "selectedPriority": 24,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Cool",
+      "source": 17,
+      "target": 183,
+      "file": "Cool-17-to-183-prepared.mcd",
+      "selectedPriority": 26,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 3,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Cool",
+      "source": 182,
+      "target": 10,
+      "file": "Cool-182-to-10-prepared.mcd",
+      "selectedPriority": 27,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Cool",
+      "source": 182,
+      "target": 24,
+      "file": "Cool-182-to-24-prepared.mcd",
+      "selectedPriority": 28,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Cool",
+      "source": 182,
+      "target": 209,
+      "file": "Cool-182-to-209-prepared.mcd",
+      "selectedPriority": 29,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Cool",
+      "source": 182,
+      "target": 185,
+      "file": "Cool-182-to-185-prepared.mcd",
+      "selectedPriority": 31,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 3,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Cool",
+      "source": 17,
+      "target": 11,
+      "file": "Cool-17-to-11-prepared.mcd",
+      "selectedPriority": 32,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 90,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Cool",
+      "source": 182,
+      "target": 11,
+      "file": "Cool-182-to-11-prepared.mcd",
+      "selectedPriority": 33,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 90,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Nature",
+      "source": 181,
+      "target": 60,
+      "file": "Nature-181-to-60-prepared.mcd",
+      "selectedPriority": 2,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 1
+    },
+    {
+      "family": "Nature",
+      "source": 186,
+      "target": 146,
+      "file": "Nature-186-to-146-prepared.mcd",
+      "selectedPriority": 4,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Nature",
+      "source": 42,
+      "target": 65,
+      "file": "Nature-42-to-65-prepared.mcd",
+      "selectedPriority": 6,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Nature",
+      "source": 144,
+      "target": 146,
+      "file": "Nature-144-to-146-prepared.mcd",
+      "selectedPriority": 7,
+      "history": {
+        "hybridAttributes": 3,
+        "hybridCount": 1,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Nature",
+      "source": 40,
+      "target": 65,
+      "file": "Nature-40-to-65-prepared.mcd",
+      "selectedPriority": 9,
+      "history": {
+        "hybridAttributes": 3,
+        "hybridCount": 1,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Nature",
+      "source": 40,
+      "target": 146,
+      "file": "Nature-40-to-146-prepared.mcd",
+      "selectedPriority": 10,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Nature",
+      "source": 34,
+      "target": 40,
+      "file": "Nature-34-to-40-prepared.mcd",
+      "selectedPriority": 11,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Nature",
+      "source": 134,
+      "target": 40,
+      "file": "Nature-134-to-40-prepared.mcd",
+      "selectedPriority": 12,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Nature",
+      "source": 48,
+      "target": 40,
+      "file": "Nature-48-to-40-prepared.mcd",
+      "selectedPriority": 13,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Nature",
+      "source": 134,
+      "target": 42,
+      "file": "Nature-134-to-42-prepared.mcd",
+      "selectedPriority": 14,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Nature",
+      "source": 48,
+      "target": 42,
+      "file": "Nature-48-to-42-prepared.mcd",
+      "selectedPriority": 15,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Nature",
+      "source": 19,
+      "target": 181,
+      "file": "Nature-19-to-181-prepared.mcd",
+      "selectedPriority": 16,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 1
+    },
+    {
+      "family": "Nature",
+      "source": 51,
+      "target": 186,
+      "file": "Nature-51-to-186-prepared.mcd",
+      "selectedPriority": 17,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 1
+    },
+    {
+      "family": "Nature",
+      "source": 134,
+      "target": 144,
+      "file": "Nature-134-to-144-prepared.mcd",
+      "selectedPriority": 19,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Nature",
+      "source": 48,
+      "target": 144,
+      "file": "Nature-48-to-144-prepared.mcd",
+      "selectedPriority": 21,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Nature",
+      "source": 111,
+      "target": 34,
+      "file": "Nature-111-to-34-prepared.mcd",
+      "selectedPriority": 22,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Nature",
+      "source": 111,
+      "target": 134,
+      "file": "Nature-111-to-134-prepared.mcd",
+      "selectedPriority": 23,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Nature",
+      "source": 111,
+      "target": 19,
+      "file": "Nature-111-to-19-prepared.mcd",
+      "selectedPriority": 24,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Nature",
+      "source": 111,
+      "target": 181,
+      "file": "Nature-111-to-181-prepared.mcd",
+      "selectedPriority": 26,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 3,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Nature",
+      "source": 46,
+      "target": 34,
+      "file": "Nature-46-to-34-prepared.mcd",
+      "selectedPriority": 27,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Nature",
+      "source": 46,
+      "target": 48,
+      "file": "Nature-46-to-48-prepared.mcd",
+      "selectedPriority": 28,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Nature",
+      "source": 46,
+      "target": 51,
+      "file": "Nature-46-to-51-prepared.mcd",
+      "selectedPriority": 29,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Nature",
+      "source": 46,
+      "target": 186,
+      "file": "Nature-46-to-186-prepared.mcd",
+      "selectedPriority": 31,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 3,
+        "sleepDisturbance": 0,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 3
+    },
+    {
+      "family": "Nature",
+      "source": 111,
+      "target": 11,
+      "file": "Nature-111-to-11-prepared.mcd",
+      "selectedPriority": 32,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 90,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    },
+    {
+      "family": "Nature",
+      "source": 46,
+      "target": 11,
+      "file": "Nature-46-to-11-prepared.mcd",
+      "selectedPriority": 33,
+      "history": {
+        "hybridAttributes": 0,
+        "hybridCount": 0,
+        "sleepDisturbance": 90,
+        "ignoredCalls": 0,
+        "runaways": 0
+      },
+      "changes": 2
+    }
+  ],
+  "scope": "All125 original explicit next-edge pairs: synthetic normal source fixtures with correct original resources, automatic complete requirements incl BA/BB/care, final original full predicate, ID/program/images/unknown BA bits preserved, exact allowlist/age preservation, invalid/skip/global guards and ready no-op. Mobile/browser real download. No all-route gameplay acceptance."
+}

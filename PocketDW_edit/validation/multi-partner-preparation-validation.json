@@ -1,0 +1,317 @@
+{
+  "status": "passed",
+  "checks": 183,
+  "cases": [
+    {
+      "family": "Fire",
+      "mode": "minimal",
+      "file": "Fire-minimal-multi-export.mcd",
+      "slots": [
+        {
+          "index": 0,
+          "source": 12,
+          "target": 213,
+          "status": 2
+        },
+        {
+          "index": 1,
+          "source": 180,
+          "target": 143,
+          "status": 2
+        },
+        {
+          "index": 2,
+          "source": 140,
+          "target": 115,
+          "status": 1
+        },
+        {
+          "index": 3,
+          "source": 54,
+          "target": 115,
+          "status": 2
+        },
+        {
+          "index": 4,
+          "source": 144,
+          "target": 115,
+          "status": 2
+        }
+      ]
+    },
+    {
+      "family": "Fire",
+      "mode": "keepStats",
+      "file": "Fire-keepStats-multi-export.mcd",
+      "slots": [
+        {
+          "index": 0,
+          "source": 12,
+          "target": 213,
+          "status": 2
+        },
+        {
+          "index": 1,
+          "source": 180,
+          "target": 143,
+          "status": 2
+        },
+        {
+          "index": 2,
+          "source": 140,
+          "target": 115,
+          "status": 1
+        },
+        {
+          "index": 3,
+          "source": 54,
+          "target": 115,
+          "status": 2
+        },
+        {
+          "index": 4,
+          "source": 144,
+          "target": 115,
+          "status": 2
+        }
+      ]
+    },
+    {
+      "family": "Wind",
+      "mode": "minimal",
+      "file": "Wind-minimal-multi-export.mcd",
+      "slots": [
+        {
+          "index": 0,
+          "source": 234,
+          "target": 235,
+          "status": 2
+        },
+        {
+          "index": 1,
+          "source": 211,
+          "target": 214,
+          "status": 2
+        },
+        {
+          "index": 2,
+          "source": 41,
+          "target": 214,
+          "status": 1
+        },
+        {
+          "index": 3,
+          "source": 144,
+          "target": 214,
+          "status": 2
+        },
+        {
+          "index": 4,
+          "source": 66,
+          "target": 236,
+          "status": 2
+        }
+      ]
+    },
+    {
+      "family": "Wind",
+      "mode": "keepStats",
+      "file": "Wind-keepStats-multi-export.mcd",
+      "slots": [
+        {
+          "index": 0,
+          "source": 234,
+          "target": 235,
+          "status": 2
+        },
+        {
+          "index": 1,
+          "source": 211,
+          "target": 214,
+          "status": 2
+        },
+        {
+          "index": 2,
+          "source": 41,
+          "target": 214,
+          "status": 1
+        },
+        {
+          "index": 3,
+          "source": 144,
+          "target": 214,
+          "status": 2
+        },
+        {
+          "index": 4,
+          "source": 66,
+          "target": 236,
+          "status": 2
+        }
+      ]
+    },
+    {
+      "family": "Cool",
+      "mode": "minimal",
+      "file": "Cool-minimal-multi-export.mcd",
+      "slots": [
+        {
+          "index": 0,
+          "source": 183,
+          "target": 196,
+          "status": 2
+        },
+        {
+          "index": 1,
+          "source": 185,
+          "target": 232,
+          "status": 2
+        },
+        {
+          "index": 2,
+          "source": 224,
+          "target": 232,
+          "status": 1
+        },
+        {
+          "index": 3,
+          "source": 144,
+          "target": 232,
+          "status": 2
+        },
+        {
+          "index": 4,
+          "source": 61,
+          "target": 204,
+          "status": 2
+        }
+      ]
+    },
+    {
+      "family": "Cool",
+      "mode": "keepStats",
+      "file": "Cool-keepStats-multi-export.mcd",
+      "slots": [
+        {
+          "index": 0,
+          "source": 183,
+          "target": 196,
+          "status": 2
+        },
+        {
+          "index": 1,
+          "source": 185,
+          "target": 232,
+          "status": 2
+        },
+        {
+          "index": 2,
+          "source": 224,
+          "target": 232,
+          "status": 1
+        },
+        {
+          "index": 3,
+          "source": 144,
+          "target": 232,
+          "status": 2
+        },
+        {
+          "index": 4,
+          "source": 61,
+          "target": 204,
+          "status": 2
+        }
+      ]
+    },
+    {
+      "family": "Nature",
+      "mode": "minimal",
+      "file": "Nature-minimal-multi-export.mcd",
+      "slots": [
+        {
+          "index": 0,
+          "source": 181,
+          "target": 60,
+          "status": 2
+        },
+        {
+          "index": 1,
+          "source": 186,
+          "target": 146,
+          "status": 2
+        },
+        {
+          "index": 2,
+          "source": 42,
+          "target": 65,
+          "status": 1
+        },
+        {
+          "index": 3,
+          "source": 144,
+          "target": 146,
+          "status": 2
+        },
+        {
+          "index": 4,
+          "source": 40,
+          "target": 65,
+          "status": 2
+        }
+      ]
+    },
+    {
+      "family": "Nature",
+      "mode": "keepStats",
+      "file": "Nature-keepStats-multi-export.mcd",
+      "slots": [
+        {
+          "index": 0,
+          "source": 181,
+          "target": 60,
+          "status": 2
+        },
+        {
+          "index": 1,
+          "source": 186,
+          "target": 146,
+          "status": 2
+        },
+        {
+          "index": 2,
+          "source": 42,
+          "target": 65,
+          "status": 1
+        },
+        {
+          "index": 3,
+          "source": 144,
+          "target": 146,
+          "status": 2
+        },
+        {
+          "index": 4,
+          "source": 40,
+          "target": 65,
+          "status": 2
+        }
+      ]
+    }
+  ],
+  "modeExamples": [
+    {
+      "family": "Fire",
+      "source": 145,
+      "target": 128,
+      "keepAvailable": false
+    },
+    {
+      "family": "Wind",
+      "source": 6,
+      "target": 14,
+      "keepAvailable": false
+    }
+  ],
+  "scope": "Four synthetic same-version five-partner cards, active slot3 retained and paused slots prepared, both strategy modes, original complete target checks, no source/resource/status changes;125 high-stat strategy comparisons; mobile five visible cards/three per-slot plans/mode persistence/real batch download/reparse/reset. Actual PS1 multi-partner switching gameplay not yet accepted."
+}
