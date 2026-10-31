@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "nativeCalculatorCases": 1440,
+  "checks": [
+    "all119 moves/three discs/four defender attributes against original-code oracles",
+    "119 moves plus basic/fallback0 on all discs",
+    "integer/range/empty validation",
+    "Nature double attribute modification",
+    "extreme IQ boundary results",
+    "existing guide sections render",
+    "desktop/mobile screenshots,390px no overflow",
+    "offline no failed assets or script errors",
+    "new reaction section desktop/mobile, expanded limits,390px no overflow"
+  ]
+}

@@ -2,10 +2,10 @@
   "status": "passed",
   "roads": 56,
   "checks": [
-    "initial4/all42",
+    "3 PS1 discs: all42/35/31 and initial-only roster",
     "Chinese/Japanese search",
     "3 numeric sorts",
-    "4 versions × 14 roads: names, rows and odds",
+    "4 versions × 14 roads: named32px sprites, names, rows and odds",
     "later versions zero road item chance",
     "existing evolution/dialogue sections render",
     "390px no page overflow",

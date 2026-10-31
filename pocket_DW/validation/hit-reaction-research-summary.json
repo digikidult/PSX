@@ -1,0 +1,39 @@
+{
+  "status": "passed_with_stated_limits",
+  "date": "2026-11-01",
+  "reactionSnapshots": 2520,
+  "phaseGateCases": 96,
+  "controlledNextAIcalls": 432,
+  "presentationClassChecks": 1071,
+  "quarterMaxHPChecks": 49989,
+  "findings": [
+    "Current attack phase waits for reaction completion. Both branches return2 for nonfatal,6 for defeat.",
+    "Long reaction elapsed<56 cannot finish; HPbar busy at56 freezes the internal processing counter.",
+    "Same HP/MP/context/RNG and pending native AI state: no reaction versus completed short/long produces identical next eight native AI continuations in each fixture.",
+    "CoolNature reaction threshold uses planned clipped damage >= ceil(maxHP/4); not an additional damage multiplier.",
+    "Presentation class alone does not change the five ordinary per-move formula outputs."
+  ],
+  "limits": [
+    "Animation states and lengths supplied; no actual frame/seconds timing or full rendering.",
+    "Original cleanup service omitted; Cool resource channels disabled. Original boot integer movement math retained.",
+    "Controlled AI tests keep MP500 and fixed HP; do not simulate whole-match damage/MP/time progression.",
+    "No universal claim excluding all ailments, interruptions or other outer battle handlers."
+  ],
+  "entrypoints": {
+    "Fire": {
+      "hit": "0x80084bb8",
+      "phaseGate": "0x80084750",
+      "longReaction": "0x800847cc"
+    },
+    "Wind": {
+      "hit": "0x800db19c",
+      "phaseGate": "0x800dab9c",
+      "longReaction": "0x800dac18"
+    },
+    "CoolNature": {
+      "hit": "0x800dce5c",
+      "phaseGate": "0x800dc608",
+      "longReaction": "0x800dc88c"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "status": "passed",
+  "PS1": {
+    "Fire": {
+      "records": 42,
+      "nativeChecks": 302
+    },
+    "Wind": {
+      "records": 35,
+      "nativeChecks": 256
+    },
+    "CoolNatureShared": {
+      "records": 31,
+      "nativeChecks": 229
+    }
+  },
+  "Pocket": {
+    "versions": 4,
+    "roadIdentityChecks": 176,
+    "referenceImages": 51,
+    "roadSelectorChecks": 89600,
+    "townSelectorChecks": 981
+  },
+  "limits": [
+    "Native isolated function tests, not complete gameplay acceptance",
+    "Collection flag acquisition names, AI, damage and rewards remain incomplete",
+    "Road percentages are theoretical per selector check, not hardware probabilities",
+    "Town NPC identities outside road0..43 not newly mapped"
+  ],
+  "progression": {
+    "status": "passed",
+    "townLocations": 52,
+    "npcIdentityChecks": 312,
+    "referenceImages": 155,
+    "collectionNames": 475,
+    "lockedOpponentSettings": 96,
+    "mappedSourceSettings": 95,
+    "nativeResultFlowChecks": 4620,
+    "nativeAwardChecks": 950,
+    "nativePrizeChecks": 624,
+    "limits": [
+      "Battle polling and text completion services supplied test results; award UI services skipped",
+      "No new real gameplay/save-reload/full dialogue acceptance",
+      "Original Fire common memory fragment10 source unresolved",
+      "PS1 awards, full AI, damage and outer trigger timing not fully established",
+      "Wind original Infermon name/Keramon image inconsistency retained"
+    ]
+  }
+}

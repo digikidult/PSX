@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "townLocations": 52,
+  "npcIdentityChecks": 312,
+  "referenceImages": 155,
+  "collectionNames": 475,
+  "lockedOpponentSettings": 96,
+  "mappedSourceSettings": 95,
+  "nativeResultFlowChecks": 4620,
+  "nativeAwardChecks": 950,
+  "nativePrizeChecks": 624,
+  "limits": [
+    "Battle polling and text completion services supplied test results; award UI services skipped",
+    "No new real gameplay/save-reload/full dialogue acceptance",
+    "Original Fire common memory fragment10 source unresolved",
+    "PS1 awards, full AI, damage and outer trigger timing not fully established",
+    "Wind original Infermon name/Keramon image inconsistency retained"
+  ]
+}

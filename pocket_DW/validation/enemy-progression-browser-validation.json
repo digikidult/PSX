@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "townSelections": 52,
+  "collectionSelections": 475,
+  "opponentSourceLinks": 96,
+  "checks": [
+    "original candidate order and named sprites",
+    "all collection name/group/source counts",
+    "96 opponent source links",
+    "original Fire flag25 unresolved message",
+    "same Japanese label distinguished by group",
+    "Wind original name/image note",
+    "mobile no page overflow",
+    "no script or asset failures"
+  ]
+}
