@@ -1,0 +1,552 @@
+{
+  "version": "0.8",
+  "date": "2026-10-31",
+  "status": "Four-family replacement beta; Nature original-program reference case accepted in PK201, not a collected PS1 original download; other targets/branches not fully played",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app.js",
+      "bytes": 17976,
+      "sha256": "8523bdcb8f5102a81626d56502fae9f4a64299c40aa28a7c35557819a121b485"
+    },
+    {
+      "path": "assets/digikidult-logo.jpg",
+      "bytes": 66715,
+      "sha256": "aedb495cd6d5535928e49e27e3196da2620768bfc01961ebee6e85ba3f78f83c"
+    },
+    {
+      "path": "assets/IMG1_003-portrait.png",
+      "bytes": 238,
+      "sha256": "3bee2b8b160fa98f05ae2a033ccb57f5446108bbdd8ab7f52c45ef7f3cb91e5d"
+    },
+    {
+      "path": "assets/IMG1_005-portrait.png",
+      "bytes": 251,
+      "sha256": "1ee44b4bb4b891c44076a2ed0414f236e1922cf3948520cc41c9c475c92f5d6e"
+    },
+    {
+      "path": "assets/IMG1_008-portrait.png",
+      "bytes": 239,
+      "sha256": "eb5aaf9d91879ffd9f61956bef603f075eb2661578e4eb5adb2c90205b1cbf31"
+    },
+    {
+      "path": "assets/IMG1_009-portrait.png",
+      "bytes": 246,
+      "sha256": "07f64f05991b173d44894676898389a14ee1ece2a17b1d2a8117d89e351e90ce"
+    },
+    {
+      "path": "assets/IMG1_011-portrait.png",
+      "bytes": 231,
+      "sha256": "5b602999edad4b70f35d3aa303bed78309448093c23ecb21fb35fecbec06b75c"
+    },
+    {
+      "path": "assets/IMG1_012-portrait.png",
+      "bytes": 260,
+      "sha256": "9149bdaff8ae29b289fc61eb6d2980735db9540cc0d356759cd5967363f63654"
+    },
+    {
+      "path": "assets/IMG1_021-portrait.png",
+      "bytes": 262,
+      "sha256": "fb064eaec667c1fb525342460818827b04f423543f999e835e5653a4e16fa737"
+    },
+    {
+      "path": "assets/IMG1_026-portrait.png",
+      "bytes": 316,
+      "sha256": "593ed3549cdf4c711d07b0a06486b7dab467d3b7234cc3f6445a359c729e3526"
+    },
+    {
+      "path": "assets/IMG1_036-portrait.png",
+      "bytes": 243,
+      "sha256": "136998d9ec7d17e3ffb79a2bd9ea99cc075c2e5e3e73bc0decf42e527beef8bd"
+    },
+    {
+      "path": "assets/IMG1_045-portrait.png",
+      "bytes": 255,
+      "sha256": "ae2bef65deae862b8f022114d9010a3ef72e1284c2d336ca093b624b702b84dd"
+    },
+    {
+      "path": "assets/IMG1_047-portrait.png",
+      "bytes": 239,
+      "sha256": "f84aa2225522e89fc0ae48f8f92d1d7ca42eb94a079571042206ae109dd8209d"
+    },
+    {
+      "path": "assets/IMG1_054-portrait.png",
+      "bytes": 265,
+      "sha256": "0320d97d8ebcc3681c9d4df192eca8ad5837f8d8807c1b155e2dfa211a3ec71c"
+    },
+    {
+      "path": "assets/IMG1_059-portrait.png",
+      "bytes": 263,
+      "sha256": "33c8e35784cd686bd2b3f9dcf42b9291504d75d5945ddc3df310fc15de736a68"
+    },
+    {
+      "path": "assets/IMG1_115-portrait.png",
+      "bytes": 300,
+      "sha256": "4af545148b1079825d51be8c4b1248ec590b94edd51433ff2a9fdc899e93d184"
+    },
+    {
+      "path": "assets/IMG1_128-portrait.png",
+      "bytes": 262,
+      "sha256": "55b0e8b7549682afdb744ed3bb326e039cd4f4f8ff292c4facc0cd636fbd7eb5"
+    },
+    {
+      "path": "assets/IMG1_133-portrait.png",
+      "bytes": 225,
+      "sha256": "fcf6a85d1f2d968e946c89c5675aed4d8a4cbf690f2b7aecda2c961f52be354e"
+    },
+    {
+      "path": "assets/IMG1_139-portrait.png",
+      "bytes": 223,
+      "sha256": "9dfa1958e9d10e6be39325a1366cbb7773c33e2604c1529986872a05a2a2c5f4"
+    },
+    {
+      "path": "assets/IMG1_140-portrait.png",
+      "bytes": 244,
+      "sha256": "f70d5b950c111de9d8c2383e0aa8f43efb006b74ce80223cd8c0563acfeb1f2b"
+    },
+    {
+      "path": "assets/IMG1_143-portrait.png",
+      "bytes": 256,
+      "sha256": "9836e6024b162e190e60ec05b37118ef010e864977c614d30ea5bb5aac1aee2d"
+    },
+    {
+      "path": "assets/IMG1_144-portrait.png",
+      "bytes": 220,
+      "sha256": "84a06274a4bbad69565a8a9ad371772f670cf4d80c5d45ba0576af137cac7f09"
+    },
+    {
+      "path": "assets/IMG1_145-portrait.png",
+      "bytes": 260,
+      "sha256": "3946f32647fcc0150a8fa2c5855470d4764c27f78f4d19a16d4fcb0b1c71931d"
+    },
+    {
+      "path": "assets/IMG1_180-portrait.png",
+      "bytes": 260,
+      "sha256": "77e5bcdeba54dff6f1610a340c60b80d7d3b21d329106fc4278886fbf21d5ce1"
+    },
+    {
+      "path": "assets/IMG1_187-portrait.png",
+      "bytes": 293,
+      "sha256": "209ff3cb867fa47ea0e2e8b84d2b5ee0546379d91d2de2af03aecbdb4559c238"
+    },
+    {
+      "path": "assets/IMG1_213-portrait.png",
+      "bytes": 289,
+      "sha256": "59e4ed04bf78c7f949ab9d977deece7e2197999eb6ae2e998f606f184f461865"
+    },
+    {
+      "path": "assets/IMG2_006-portrait.png",
+      "bytes": 274,
+      "sha256": "f7ee98cbb5bc83f9a73ed1a0ff58dea4261ff1e32da0aca6ca08217cb97917dc"
+    },
+    {
+      "path": "assets/IMG2_007-portrait.png",
+      "bytes": 255,
+      "sha256": "a407bba085d8e0bf9c0cce24a2f42399820fbf45a433a92aabe61855948553ba"
+    },
+    {
+      "path": "assets/IMG2_011-portrait.png",
+      "bytes": 231,
+      "sha256": "5b602999edad4b70f35d3aa303bed78309448093c23ecb21fb35fecbec06b75c"
+    },
+    {
+      "path": "assets/IMG2_013-portrait.png",
+      "bytes": 228,
+      "sha256": "1fe1432f9ad91e323c564a3ad001c8e907eb76b722c97f06abd3525f611163a3"
+    },
+    {
+      "path": "assets/IMG2_014-portrait.png",
+      "bytes": 236,
+      "sha256": "b54251045f7feb5ed9dd509f3a8239b36fc099f085a569be326f2d69e4860378"
+    },
+    {
+      "path": "assets/IMG2_020-portrait.png",
+      "bytes": 286,
+      "sha256": "7fd891043153450e1fb031bfebcd18d7638e7445432a1083140d488f455d8d0b"
+    },
+    {
+      "path": "assets/IMG2_031-portrait.png",
+      "bytes": 217,
+      "sha256": "331c25d2bd8712d04b25dee1c78313ea238e785c2d9db48689f938daae463089"
+    },
+    {
+      "path": "assets/IMG2_032-portrait.png",
+      "bytes": 207,
+      "sha256": "de95a26afdcb23dd5e59f189ff132f207d1d8921e673995b02dab8649cb25649"
+    },
+    {
+      "path": "assets/IMG2_033-portrait.png",
+      "bytes": 302,
+      "sha256": "7067d2623e7886942cc2efd1425e5f511c760a872cd3b5103a819e67283c8cca"
+    },
+    {
+      "path": "assets/IMG2_037-portrait.png",
+      "bytes": 235,
+      "sha256": "028c369d9b82632cc07a1c662ce15bc15f45d8c7e8791eb3d97961c3b294a42c"
+    },
+    {
+      "path": "assets/IMG2_041-portrait.png",
+      "bytes": 263,
+      "sha256": "f87d69026e871936d2243875596a62870d86fdf0d21e3ee4405cf2776a8e1e0b"
+    },
+    {
+      "path": "assets/IMG2_066-portrait.png",
+      "bytes": 241,
+      "sha256": "c8990c55781f6c847de586444acd3e8a8f42e5c2b1f81b13ee1aefae8ae3b5cb"
+    },
+    {
+      "path": "assets/IMG2_137-portrait.png",
+      "bytes": 300,
+      "sha256": "0a8c74e89053d09b1cb8e1c85829f5c5e90dd19aadf14d284999e45c13245a97"
+    },
+    {
+      "path": "assets/IMG2_139-portrait.png",
+      "bytes": 223,
+      "sha256": "9dfa1958e9d10e6be39325a1366cbb7773c33e2604c1529986872a05a2a2c5f4"
+    },
+    {
+      "path": "assets/IMG2_144-portrait.png",
+      "bytes": 220,
+      "sha256": "84a06274a4bbad69565a8a9ad371772f670cf4d80c5d45ba0576af137cac7f09"
+    },
+    {
+      "path": "assets/IMG2_211-portrait.png",
+      "bytes": 306,
+      "sha256": "e9b9857990dc11ad9ff2a76783e5c10cab2e36db3b7ccd62086a5860ae6af96c"
+    },
+    {
+      "path": "assets/IMG2_214-portrait.png",
+      "bytes": 279,
+      "sha256": "ddc6fbc88d9181f8374efdba7e520ef66b5db46ba850f608c3a5b562e5bdefd6"
+    },
+    {
+      "path": "assets/IMG2_233-portrait.png",
+      "bytes": 274,
+      "sha256": "b41563cfebfc2a850704f8dd2f78cb2789d406c57737a8fb234c1ca0ac9ada4d"
+    },
+    {
+      "path": "assets/IMG2_234-portrait.png",
+      "bytes": 259,
+      "sha256": "c3fb213c691a5337b26818a8273e56a0f09204d30959213bc439e28011a9a6b3"
+    },
+    {
+      "path": "assets/IMG2_235-portrait.png",
+      "bytes": 278,
+      "sha256": "e7f384b2a26cbb3f1029ecc1b252c6eaa9f8c777751f27f057fe422c2838bda9"
+    },
+    {
+      "path": "assets/IMG2_236-portrait.png",
+      "bytes": 290,
+      "sha256": "99f29271dda0da6ab36753d26cc9379d00dda21b40a5ba4cd587ceea08f5d0ff"
+    },
+    {
+      "path": "assets/IMG3_010-portrait.png",
+      "bytes": 205,
+      "sha256": "32da56f3656d4e9a6908e01f58e0f309d1566771401b937d7fd789668cd665ff"
+    },
+    {
+      "path": "assets/IMG3_011-portrait.png",
+      "bytes": 231,
+      "sha256": "5b602999edad4b70f35d3aa303bed78309448093c23ecb21fb35fecbec06b75c"
+    },
+    {
+      "path": "assets/IMG3_017-portrait.png",
+      "bytes": 266,
+      "sha256": "1a439e740a93a324b3b0be00b3673298d2fd464b1d4d09ec9aea6537a1b3cfd6"
+    },
+    {
+      "path": "assets/IMG3_022-portrait.png",
+      "bytes": 212,
+      "sha256": "c2777fb61f3c0dc956199624ebff7e992fc02db6f3d1644de26273a6f5b41137"
+    },
+    {
+      "path": "assets/IMG3_024-portrait.png",
+      "bytes": 219,
+      "sha256": "0b615f57140369ac5fbcaf1b92823332a1031032027dd62371ba0faf3d9a2371"
+    },
+    {
+      "path": "assets/IMG3_061-portrait.png",
+      "bytes": 265,
+      "sha256": "e9d2a503ac48279771e8cc00a7a3570aab400711ad4bda40188e67df9d840890"
+    },
+    {
+      "path": "assets/IMG3_139-portrait.png",
+      "bytes": 223,
+      "sha256": "9dfa1958e9d10e6be39325a1366cbb7773c33e2604c1529986872a05a2a2c5f4"
+    },
+    {
+      "path": "assets/IMG3_144-portrait.png",
+      "bytes": 220,
+      "sha256": "84a06274a4bbad69565a8a9ad371772f670cf4d80c5d45ba0576af137cac7f09"
+    },
+    {
+      "path": "assets/IMG3_182-portrait.png",
+      "bytes": 276,
+      "sha256": "3246a7f5e428de8c063d84f1b580b58b7edb958d875cdb63cc30a5dfc6b517d2"
+    },
+    {
+      "path": "assets/IMG3_183-portrait.png",
+      "bytes": 238,
+      "sha256": "dc1833e0a787b2dbed0a82999253f60148d8138f68938877273247b031674842"
+    },
+    {
+      "path": "assets/IMG3_185-portrait.png",
+      "bytes": 304,
+      "sha256": "9f228dce56d99ece658a497374690a6bea93c037f330e59c0f37a2aa7163d8f9"
+    },
+    {
+      "path": "assets/IMG3_196-portrait.png",
+      "bytes": 267,
+      "sha256": "2352b10997f37a07813d705825b511b97a7ad33f925dc0365c732749f9818d49"
+    },
+    {
+      "path": "assets/IMG3_204-portrait.png",
+      "bytes": 288,
+      "sha256": "0cfa8ef6fb44c3b7a21bffc464056d48076fce657d92ff85c40d4d9d488ee2e7"
+    },
+    {
+      "path": "assets/IMG3_209-portrait.png",
+      "bytes": 273,
+      "sha256": "9d554eae7d912de83f78a09461c008b4d12f1288de57fbeca5224722368586cf"
+    },
+    {
+      "path": "assets/IMG3_210-portrait.png",
+      "bytes": 230,
+      "sha256": "3152f33af19e221c3bb180a0a343e0a236a34d57f7683f48b7ab2d7dd4b5e026"
+    },
+    {
+      "path": "assets/IMG3_224-portrait.png",
+      "bytes": 307,
+      "sha256": "fd70ba545351c8ed9c4481003da580584266f32d85a477da71af975fad1fada6"
+    },
+    {
+      "path": "assets/IMG3_232-portrait.png",
+      "bytes": 291,
+      "sha256": "dd24032ee9b0a0863e553133b8d5ed656289216bba95ed3bf1d2115c8a10a8cf"
+    },
+    {
+      "path": "assets/IMG4_011-portrait.png",
+      "bytes": 231,
+      "sha256": "5b602999edad4b70f35d3aa303bed78309448093c23ecb21fb35fecbec06b75c"
+    },
+    {
+      "path": "assets/IMG4_019-portrait.png",
+      "bytes": 297,
+      "sha256": "58817709d18c722293c7df7c20fe13ebe3f26765d3b6e203777b53c5261166e8"
+    },
+    {
+      "path": "assets/IMG4_034-portrait.png",
+      "bytes": 282,
+      "sha256": "35197ed93a5153b111be47d42f158044959348d0f3563b3eb6a65dfad0b7d6bc"
+    },
+    {
+      "path": "assets/IMG4_040-portrait.png",
+      "bytes": 247,
+      "sha256": "02b4986c26ce025e4ba2ceb08e8628f0fd3957f8e445de0ecbfc0f64a7833ebc"
+    },
+    {
+      "path": "assets/IMG4_042-portrait.png",
+      "bytes": 270,
+      "sha256": "336692202f910fafe4a2fed118b5255998dba84614841b9b6eba13953dc746fa"
+    },
+    {
+      "path": "assets/IMG4_046-portrait.png",
+      "bytes": 268,
+      "sha256": "a7e482787eb29524cd48d3ceddad981ba40b779daea3900162ce520c3b1b0afe"
+    },
+    {
+      "path": "assets/IMG4_048-portrait.png",
+      "bytes": 234,
+      "sha256": "6c4f626ee09681d3c00c60aeeab704e7baafcc12f675b0439c1dac0dad28fcf4"
+    },
+    {
+      "path": "assets/IMG4_051-portrait.png",
+      "bytes": 294,
+      "sha256": "0046521c08351f0a686443de7823e016817057fb4f3fb7e6ee06eccf41f465a9"
+    },
+    {
+      "path": "assets/IMG4_060-portrait.png",
+      "bytes": 290,
+      "sha256": "034ad8c86242b687d3a172a87dc1f4cccb82a74f5e2de1858f30bc879386444f"
+    },
+    {
+      "path": "assets/IMG4_065-portrait.png",
+      "bytes": 272,
+      "sha256": "08fc121162d4ad8cf7125bced5a08d1360410817d700b18a76836f01931defde"
+    },
+    {
+      "path": "assets/IMG4_111-portrait.png",
+      "bytes": 275,
+      "sha256": "37f8a27a39718ee893b7c5dfd5caf2c28877180410099203a274c313c4c8d09f"
+    },
+    {
+      "path": "assets/IMG4_134-portrait.png",
+      "bytes": 288,
+      "sha256": "84850ea64c142ae287de4d9bb6e3eeb647a31dbc433baa02bc882d42209378e9"
+    },
+    {
+      "path": "assets/IMG4_139-portrait.png",
+      "bytes": 223,
+      "sha256": "9dfa1958e9d10e6be39325a1366cbb7773c33e2604c1529986872a05a2a2c5f4"
+    },
+    {
+      "path": "assets/IMG4_144-portrait.png",
+      "bytes": 220,
+      "sha256": "84a06274a4bbad69565a8a9ad371772f670cf4d80c5d45ba0576af137cac7f09"
+    },
+    {
+      "path": "assets/IMG4_146-portrait.png",
+      "bytes": 243,
+      "sha256": "6ca50bcb0ba51ba28d7be1b702e29afecc069607f3024402c7de58b757a83abd"
+    },
+    {
+      "path": "assets/IMG4_181-portrait.png",
+      "bytes": 310,
+      "sha256": "1cb43ec0b27551186db32776f1d53a730b7332f3ba5768c0c4031a15262a10f6"
+    },
+    {
+      "path": "assets/IMG4_186-portrait.png",
+      "bytes": 263,
+      "sha256": "eb66f11534b61aa62e445bb526e7cc2542a0886aa715970cc91191627adca49a"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 10442,
+      "sha256": "f1ff0782925f49ccd3b1d937b86678e4f16535edf4bb7b61b965c41eb3b9fdb6"
+    },
+    {
+      "path": "core.js",
+      "bytes": 13449,
+      "sha256": "f1cf4df65722ba501d5a3d8c004d654d8b3a15fcda5d116e0fe9c7e002947930"
+    },
+    {
+      "path": "data.js",
+      "bytes": 34057,
+      "sha256": "8c1a50ebc6c8c85d46101384c1887eb5980257f414a81f5a0b5890936391277f"
+    },
+    {
+      "path": "evolution-vm.js",
+      "bytes": 4376,
+      "sha256": "10dac04c199b0cc3f5fe2768970eafa34a8a7fa13528f248c291f06f5b7e6090"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12165,
+      "sha256": "eac73f682e7693f3f2c777ebea6b9605908f75d3be9b73d48fe1de38695c39a8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9227,
+      "sha256": "585d4c372aabb93c52bd10c7168a13f849736da2a455456514c89513c9f34e7e"
+    },
+    {
+      "path": "replacement-data.js",
+      "bytes": 15262,
+      "sha256": "40fc749092b35b9c9210535286d5ac1cc7e6c68a407a34c20b4306c5ac24259d"
+    },
+    {
+      "path": "replacement.js",
+      "bytes": 4339,
+      "sha256": "b703a2ede07c004adeb25bb9aa166768f80cb7117f421453d2335e20124e4725"
+    },
+    {
+      "path": "style.css",
+      "bytes": 14951,
+      "sha256": "c4017a31d444a2adbb2f100dbfe3b3790f66a6b00734fd25e5c504b7c3a6d904"
+    },
+    {
+      "path": "validation/cool-replacement-image-validation.json",
+      "bytes": 1592,
+      "sha256": "441f0ebaa0edb98ebf9b700e55969a4e1b015497d0ed55409354a35fcf1fa1b9"
+    },
+    {
+      "path": "validation/editor-battle-validation.json",
+      "bytes": 622,
+      "sha256": "0cddbe8e31bf9ba28c35dd486b12b4bd2d68eafc757d8f0a9eac2a50dbc71407"
+    },
+    {
+      "path": "validation/editor-lifecycle-validation.json",
+      "bytes": 559,
+      "sha256": "1f6d9997bae94a9ce6f6ecd79b73cca6541c833e8724714da22b030d3e88fea2"
+    },
+    {
+      "path": "validation/fire-replacement-resource-validation.json",
+      "bytes": 17420,
+      "sha256": "dcb55902ffa214de95b36c5edabab66c1b25b4934696844de7f2501337536622"
+    },
+    {
+      "path": "validation/greymon-timing-validation.json",
+      "bytes": 1546,
+      "sha256": "7677765692a7db21c8cb853cdca6844153468efd0516eeaeb34692c711203325"
+    },
+    {
+      "path": "validation/nature-evolution-validation.json",
+      "bytes": 101442,
+      "sha256": "21edd4815ef1b69088651e662e70cfcba3a00b4292859f9c6a2f24cf09b6aac5"
+    },
+    {
+      "path": "validation/nature-replacement-resource-validation.json",
+      "bytes": 4904,
+      "sha256": "6f38c5c824346f094de87e4e3f63afa637b2c568171683b8a3f0d2a0489dca42"
+    },
+    {
+      "path": "validation/replacement-asset-loader-validation.json",
+      "bytes": 55562,
+      "sha256": "f011e456a3330b23950d4570d185fd2a468c254d001ff9398414990bee3e3da3"
+    },
+    {
+      "path": "validation/replacement-lifecycle-validation.json",
+      "bytes": 482608,
+      "sha256": "a584c23638b5fbe4c126ed44e8e3e54727c17cff3b8013ea16c9cb886de5d553"
+    },
+    {
+      "path": "validation/web-editor-browser-validation.json",
+      "bytes": 652,
+      "sha256": "30426b0cc8071380a287edb73e1a35d96a32b3dfff27fa0331c0b7db7ce71019"
+    },
+    {
+      "path": "validation/web-editor-core-validation.json",
+      "bytes": 3803,
+      "sha256": "ebd741d53fb2b243f17f9a7907529f01444c5d0bcbdff76fc38e4059843116bb"
+    },
+    {
+      "path": "validation/web-editor-native-export-validation.json",
+      "bytes": 56912,
+      "sha256": "fea2d839d6b6ec889f1dad0a14c944052dd86e3a9165255e97ad6e41165bdaf6"
+    },
+    {
+      "path": "validation/web-fire-replacement-validation.json",
+      "bytes": 552,
+      "sha256": "e87cf057d61ea2d7baed970fb17614bdc71a449d11215572b99dd3e05f052f7e"
+    },
+    {
+      "path": "validation/web-nature-replacement-validation.json",
+      "bytes": 938,
+      "sha256": "a39c6e3b18c715bba33db4eeada60a10e081bdab579e02583932bc226d700a16"
+    },
+    {
+      "path": "validation/web-replacement-validation.json",
+      "bytes": 405,
+      "sha256": "8321bfc3ba726c4a7d69ee596b1941dc6f5a2517b264d7e05dc76b9fa630aa09"
+    },
+    {
+      "path": "validation/web-wind-replacement-validation.json",
+      "bytes": 553,
+      "sha256": "4c80dfdf33903c917fc75d745bbf2336fffb4813f818034c3c400c2deb6d541a"
+    },
+    {
+      "path": "validation/wind-native-decoder-validation.json",
+      "bytes": 1907,
+      "sha256": "c7153ce0533d640e64dd3c0b8d2158e97a7a5e69143e452b4c847bcde0862adc"
+    },
+    {
+      "path": "validation/wind-replacement-resource-validation.json",
+      "bytes": 10896,
+      "sha256": "1daa03d75a81a782f7b7f8d353a220dc6c80d3d15a6bd7d1aa5cc8b59e9ce62c"
+    }
+  ]
+}
