@@ -1,7 +1,7 @@
 {
-  "version": "0.8",
+  "version": "0.12",
   "date": "2026-10-31",
-  "status": "Four-family replacement beta; Nature original-program reference case accepted in PK201, not a collected PS1 original download; other targets/branches not fully played",
+  "status": "Same-version multi-partner preparation including paused slots; five-slot summaries and minimal/keepStats modes. Native five-slot IO/predicates checked, actual batch switching gameplay pending; prior6 single-partner samples retained.",
   "files": [
     {
       "path": ".nojekyll",
@@ -10,8 +10,8 @@
     },
     {
       "path": "app.js",
-      "bytes": 17976,
-      "sha256": "8523bdcb8f5102a81626d56502fae9f4a64299c40aa28a7c35557819a121b485"
+      "bytes": 25721,
+      "sha256": "378297f259b1f7848ca5083f8857b1afa823399b0f927d261d574e7b3597dd3f"
     },
     {
       "path": "assets/digikidult-logo.jpg",
@@ -415,13 +415,13 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 10442,
-      "sha256": "f1ff0782925f49ccd3b1d937b86678e4f16535edf4bb7b61b965c41eb3b9fdb6"
+      "bytes": 13608,
+      "sha256": "078479bf90347352874289a8ebe228bdccba65fea6089e10b0c10a4301f07b7b"
     },
     {
       "path": "core.js",
-      "bytes": 13449,
-      "sha256": "f1cf4df65722ba501d5a3d8c004d654d8b3a15fcda5d116e0fe9c7e002947930"
+      "bytes": 16160,
+      "sha256": "c2e260cc2fc84df0f887928728be1256bcce03425ba75eb53e0d1120613d4e4a"
     },
     {
       "path": "data.js",
@@ -435,13 +435,23 @@
     },
     {
       "path": "index.html",
-      "bytes": 12165,
-      "sha256": "eac73f682e7693f3f2c777ebea6b9605908f75d3be9b73d48fe1de38695c39a8"
+      "bytes": 16243,
+      "sha256": "bc9693990635d92cc329745c366ea3e0ebc0eb2f7a373159dc0248828381f446"
+    },
+    {
+      "path": "preparation-data.js",
+      "bytes": 77678,
+      "sha256": "f1086a51f94ebce79586dd2121fce50e48ccdc7b8b7fc490a6cf9746716a2a4d"
+    },
+    {
+      "path": "preparation.js",
+      "bytes": 7748,
+      "sha256": "757c3e8779152e315f89a734a2b889936db55bb8c191484e9d435ed16169053f"
     },
     {
       "path": "README.md",
-      "bytes": 9227,
-      "sha256": "585d4c372aabb93c52bd10c7168a13f849736da2a455456514c89513c9f34e7e"
+      "bytes": 17118,
+      "sha256": "947b5b0afae75595023d4aa51b4a68643dd41f9e1b7d1d755afe2e5d4c31c3ed"
     },
     {
       "path": "replacement-data.js",
@@ -455,8 +465,23 @@
     },
     {
       "path": "style.css",
-      "bytes": 14951,
-      "sha256": "c4017a31d444a2adbb2f100dbfe3b3790f66a6b00734fd25e5c504b7c3a6d904"
+      "bytes": 16390,
+      "sha256": "0c3b5d3cafb3a8dd60bb44309072c6db1e41caf4d84dfe039068b1dbc16c6148"
+    },
+    {
+      "path": "validation/automatic-gameplay-acceptance.json",
+      "bytes": 3910,
+      "sha256": "ff3ed967664dba8e04977f2ed10e294d178d9f032e025f246c008aec7f14c004"
+    },
+    {
+      "path": "validation/automatic-preparation-native-validation.json",
+      "bytes": 27999,
+      "sha256": "f74318932e78409b89551af555c1e123e68a9a79d3ef6ed1676cc1845c822c3d"
+    },
+    {
+      "path": "validation/automatic-preparation-validation.json",
+      "bytes": 42646,
+      "sha256": "019e19cd37f7285b4f46956a388ea2c1cae933e55681f9c3a47c9632bce26445"
     },
     {
       "path": "validation/cool-replacement-image-validation.json",
@@ -467,6 +492,11 @@
       "path": "validation/editor-battle-validation.json",
       "bytes": 622,
       "sha256": "0cddbe8e31bf9ba28c35dd486b12b4bd2d68eafc757d8f0a9eac2a50dbc71407"
+    },
+    {
+      "path": "validation/editor-history-validation.json",
+      "bytes": 395,
+      "sha256": "cb2356b026b5ce6afc91288174d6b9d6d37e563240a377f8a648fbd2bb03d81e"
     },
     {
       "path": "validation/editor-lifecycle-validation.json",
@@ -484,6 +514,16 @@
       "sha256": "7677765692a7db21c8cb853cdca6844153468efd0516eeaeb34692c711203325"
     },
     {
+      "path": "validation/multi-partner-native-validation.json",
+      "bytes": 8628,
+      "sha256": "3083976ea0370f1f234d879f8594a2cb4b1da772e074c0e1aa2296aa872374db"
+    },
+    {
+      "path": "validation/multi-partner-preparation-validation.json",
+      "bytes": 6359,
+      "sha256": "2668901696953831c4309100be916103ccb305e65cc82dc3266cf9945d4e446a"
+    },
+    {
       "path": "validation/nature-evolution-validation.json",
       "bytes": 101442,
       "sha256": "21edd4815ef1b69088651e662e70cfcba3a00b4292859f9c6a2f24cf09b6aac5"
@@ -492,6 +532,16 @@
       "path": "validation/nature-replacement-resource-validation.json",
       "bytes": 4904,
       "sha256": "6f38c5c824346f094de87e4e3f63afa637b2c568171683b8a3f0d2a0489dca42"
+    },
+    {
+      "path": "validation/ps1-evolution-actual-acceptance.json",
+      "bytes": 752,
+      "sha256": "229a57a7c7ac9588f083da8ce439b865f2f895c71c795a764fbded4dc62e9f2f"
+    },
+    {
+      "path": "validation/ps1-evolution-preparation-validation.json",
+      "bytes": 460,
+      "sha256": "0d933de0b3517508fdd4c87a3d6da39662c8958e5123be5cd0d5b541bc47f798"
     },
     {
       "path": "validation/replacement-asset-loader-validation.json",
@@ -515,8 +565,8 @@
     },
     {
       "path": "validation/web-editor-native-export-validation.json",
-      "bytes": 56912,
-      "sha256": "fea2d839d6b6ec889f1dad0a14c944052dd86e3a9165255e97ad6e41165bdaf6"
+      "bytes": 123759,
+      "sha256": "32fc573bf8b970361e4f751565eebc8014bbb71f05e5910759101ac05407f023"
     },
     {
       "path": "validation/web-fire-replacement-validation.json",

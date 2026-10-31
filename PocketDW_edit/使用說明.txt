@@ -1,19 +1,7 @@
-Pocket Digimon World 修改器 0.8 完整本機包
-
-1. 解壓整個ZIP到同一個資料夾，開啟 index.html。
-2. 在遊戲正常保存並關閉模擬器；PK201 請先匯出 FROM。
-3. 載入自己的128KB記憶卡，先下載原檔備份。
-4. 如要直接更換數碼獸，選擇 resources 資料夾內相應版本的JSON：
-   Fire：Fire-Partner-Resources-v1.local.json
-   Wind：Wind-Partner-Resources-v1.local.json
-   Cool：Cool-Partner-Resources-v2.local.json
-   Nature：Nature-Partner-Resources-v1.local.json
-5. 核對修改，下載新卡檔；用副本試玩並保留原檔。
-
-這個包包含完整修改器、參考小圖、四版更換資源資料及驗證說明。
-不包含ROM、BIOS或玩家存檔。資源資料留在本機處理，不會上傳。
-
-本機完整包的 resources 含原始遊戲資源，請勿把它整包放上公開GitHub。
-如要部署網站，請使用另附的 Pocket-Digimon-World-Web-Save-Editor-v0.8.zip；該網站包不含 resources。
-
-仍為測試版：已驗收的代表案例及Nature參考卡來源見 README.md，並未逐隻或逐分支遊玩驗收。
+DigiKidult Pocket Digimon World 修改器0.12
+解壓後以Chrome或Edge開啟index.html。
+可為已有資料的五個位置分別設定同版本合法進化目標，一次下載整張卡。包含休止夥伴，但不改活動狀態，也不新增空位夥伴。
+兩種模式：改動最少／盡量保留能力。後者保留或提高六項能力；做不到會提示，不自行降能力。
+回PS1後逐隻正常切換夥伴、讓遊戲更新配套，再確認進化及保存。
+新多夥伴及模式流程已經原版判定／槽讀寫與瀏覽器驗證，尚待實際同卡多夥伴遊玩驗收；請用副本測試。
+resources只供直接更換功能，原檔沿用前版，請勿公開上傳。詳細範圍見README.md。
