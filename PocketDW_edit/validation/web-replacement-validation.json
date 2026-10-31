@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "targets": 17,
+  "pairPlans": 289,
+  "scope": "17 target exports,289 directed image/scenario exchanges with full output verification, reparse/allowlist/unchanged source, invalid IDs, locks, image hash and bad packs, combined stats/battle/wait, browser import/select/Chinese names/sprites/review/reset/390px/no HTTP or console errors. All-target emulator gameplay not verified."
+}

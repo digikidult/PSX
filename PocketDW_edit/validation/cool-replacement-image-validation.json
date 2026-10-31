@@ -1,0 +1,86 @@
+{
+  "status": "passed",
+  "scope": "17 Cool targets, all 51 animations strictly bounded to each original image payload. Two matching scenario headers/declared spans and capacities verified. Not native runtime or emulator testing of every target. Raw local resource pack excluded from website.",
+  "cases": [
+    {
+      "id": 10,
+      "controls": 609
+    },
+    {
+      "id": 11,
+      "controls": 906
+    },
+    {
+      "id": 17,
+      "controls": 667
+    },
+    {
+      "id": 22,
+      "controls": 711
+    },
+    {
+      "id": 24,
+      "controls": 538
+    },
+    {
+      "id": 61,
+      "controls": 502
+    },
+    {
+      "id": 139,
+      "controls": 906
+    },
+    {
+      "id": 144,
+      "controls": 426
+    },
+    {
+      "id": 182,
+      "controls": 691
+    },
+    {
+      "id": 183,
+      "controls": 626
+    },
+    {
+      "id": 185,
+      "controls": 478
+    },
+    {
+      "id": 196,
+      "controls": 740
+    },
+    {
+      "id": 204,
+      "controls": 547
+    },
+    {
+      "id": 209,
+      "controls": 445
+    },
+    {
+      "id": 210,
+      "controls": 599
+    },
+    {
+      "id": 224,
+      "controls": 608
+    },
+    {
+      "id": 232,
+      "controls": 792
+    }
+  ],
+  "scenarios": [
+    {
+      "name": "SC3_AGUM.LZR",
+      "bytes": 30536,
+      "sha256": "a8997acfa1016c308ac561f25be5ef7f782db709d6af66841c1ecb347ef973c5"
+    },
+    {
+      "name": "SC3_DEVI.LZR",
+      "bytes": 30808,
+      "sha256": "52bc6e43e8a6b83c0da03068ea4c63f255aa37de7dbb820ad65678eeb408f948"
+    }
+  ]
+}

@@ -1,0 +1,2613 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "bank": 0,
+      "id": 3,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_003.LZR",
+          "destination": "temporary image buffer",
+          "size": 37184
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 704,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 5,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_005.LZR",
+          "destination": "temporary image buffer",
+          "size": 27932
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 9956,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 8,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_008.LZR",
+          "destination": "temporary image buffer",
+          "size": 31736
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 6152,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 9,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_009.LZR",
+          "destination": "temporary image buffer",
+          "size": 28736
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 9152,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 11,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_011.LZR",
+          "destination": "temporary image buffer",
+          "size": 17256
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 20632,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 12,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_012.LZR",
+          "destination": "temporary image buffer",
+          "size": 28472
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 9416,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 21,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_021.LZR",
+          "destination": "temporary image buffer",
+          "size": 29244
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 8644,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 26,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_026.LZR",
+          "destination": "temporary image buffer",
+          "size": 31108
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 6780,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 36,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_036.LZR",
+          "destination": "temporary image buffer",
+          "size": 27724
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 10164,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 45,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_PIYO.LZR",
+          "destination": "0xc000",
+          "size": 33342
+        },
+        {
+          "asset": "IMG1_045.LZR",
+          "destination": "temporary image buffer",
+          "size": 35088
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 2800,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 47,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_047.LZR",
+          "destination": "temporary image buffer",
+          "size": 32680
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5208,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 54,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_054.LZR",
+          "destination": "temporary image buffer",
+          "size": 29720
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 8168,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 59,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_059.LZR",
+          "destination": "temporary image buffer",
+          "size": 35864
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 2024,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 115,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_115.LZR",
+          "destination": "temporary image buffer",
+          "size": 30240
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 7648,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 128,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_128.LZR",
+          "destination": "temporary image buffer",
+          "size": 32216
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5672,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 133,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_133.LZR",
+          "destination": "temporary image buffer",
+          "size": 26872
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 11016,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 139,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_139.LZR",
+          "destination": "temporary image buffer",
+          "size": 16972
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 20916,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 140,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_140.LZR",
+          "destination": "temporary image buffer",
+          "size": 31060
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 6828,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 143,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_143.LZR",
+          "destination": "temporary image buffer",
+          "size": 33592
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 4296,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 144,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_144.LZR",
+          "destination": "temporary image buffer",
+          "size": 30480
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 7408,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 145,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_PIYO.LZR",
+          "destination": "0xc000",
+          "size": 33342
+        },
+        {
+          "asset": "IMG1_145.LZR",
+          "destination": "temporary image buffer",
+          "size": 35484
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 2404,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 180,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_180.LZR",
+          "destination": "temporary image buffer",
+          "size": 35048
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 2840,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 187,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_187.LZR",
+          "destination": "temporary image buffer",
+          "size": 36880
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 1008,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 0,
+      "id": 213,
+      "layout": [
+        0,
+        49152,
+        49152,
+        33792,
+        82944,
+        37888,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_FIRE.LZR",
+          "destination": "0x0",
+          "size": 48016
+        },
+        {
+          "asset": "SCN_AGUM.LZR",
+          "destination": "0xc000",
+          "size": 33610
+        },
+        {
+          "asset": "IMG1_213.LZR",
+          "destination": "temporary image buffer",
+          "size": 29668
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 8220,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 6,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_DEVI.LZR",
+          "destination": "0xdc00",
+          "size": 31886
+        },
+        {
+          "asset": "IMG2_006.LZR",
+          "destination": "temporary image buffer",
+          "size": 24460
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5236,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 7,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_DEVI.LZR",
+          "destination": "0xdc00",
+          "size": 31886
+        },
+        {
+          "asset": "IMG2_007.LZR",
+          "destination": "temporary image buffer",
+          "size": 25552
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 4144,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 11,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_KUNE.LZR",
+          "destination": "0xdc00",
+          "size": 32256
+        },
+        {
+          "asset": "IMG2_011.LZR",
+          "destination": "temporary image buffer",
+          "size": 16592
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 13104,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 13,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_PATA.LZR",
+          "destination": "0xdc00",
+          "size": 31614
+        },
+        {
+          "asset": "IMG2_013.LZR",
+          "destination": "temporary image buffer",
+          "size": 21240
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 8456,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 14,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_PATA.LZR",
+          "destination": "0xdc00",
+          "size": 31614
+        },
+        {
+          "asset": "IMG2_014.LZR",
+          "destination": "temporary image buffer",
+          "size": 26064
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 3632,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 20,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_DEVI.LZR",
+          "destination": "0xdc00",
+          "size": 31886
+        },
+        {
+          "asset": "IMG2_020.LZR",
+          "destination": "temporary image buffer",
+          "size": 26828
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 2868,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 31,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_PATA.LZR",
+          "destination": "0xdc00",
+          "size": 31614
+        },
+        {
+          "asset": "IMG2_031.LZR",
+          "destination": "temporary image buffer",
+          "size": 26824
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 2872,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 32,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_KUNE.LZR",
+          "destination": "0xdc00",
+          "size": 32256
+        },
+        {
+          "asset": "IMG2_032.LZR",
+          "destination": "temporary image buffer",
+          "size": 23948
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5748,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 33,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_PATA.LZR",
+          "destination": "0xdc00",
+          "size": 31614
+        },
+        {
+          "asset": "IMG2_033.LZR",
+          "destination": "temporary image buffer",
+          "size": 28724
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 972,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 37,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_KUNE.LZR",
+          "destination": "0xdc00",
+          "size": 32256
+        },
+        {
+          "asset": "IMG2_037.LZR",
+          "destination": "temporary image buffer",
+          "size": 22368
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 7328,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 41,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_PATA.LZR",
+          "destination": "0xdc00",
+          "size": 31614
+        },
+        {
+          "asset": "IMG2_041.LZR",
+          "destination": "temporary image buffer",
+          "size": 24040
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5656,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 66,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_DEVI.LZR",
+          "destination": "0xdc00",
+          "size": 31886
+        },
+        {
+          "asset": "IMG2_066.LZR",
+          "destination": "temporary image buffer",
+          "size": 21708
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 7988,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 137,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_KUNE.LZR",
+          "destination": "0xdc00",
+          "size": 32256
+        },
+        {
+          "asset": "IMG2_137.LZR",
+          "destination": "temporary image buffer",
+          "size": 27440
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 2256,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 139,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_KUNE.LZR",
+          "destination": "0xdc00",
+          "size": 32256
+        },
+        {
+          "asset": "IMG2_139.LZR",
+          "destination": "temporary image buffer",
+          "size": 16212
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 13484,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 144,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_DEVI.LZR",
+          "destination": "0xdc00",
+          "size": 31886
+        },
+        {
+          "asset": "IMG2_144.LZR",
+          "destination": "temporary image buffer",
+          "size": 23936
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5760,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 211,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_DEVI.LZR",
+          "destination": "0xdc00",
+          "size": 31886
+        },
+        {
+          "asset": "IMG2_211.LZR",
+          "destination": "temporary image buffer",
+          "size": 22992
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 6704,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 214,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_DEVI.LZR",
+          "destination": "0xdc00",
+          "size": 31886
+        },
+        {
+          "asset": "IMG2_214.LZR",
+          "destination": "temporary image buffer",
+          "size": 23220
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 6476,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 233,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_TAIL.LZR",
+          "destination": "0xdc00",
+          "size": 31852
+        },
+        {
+          "asset": "IMG2_233.LZR",
+          "destination": "temporary image buffer",
+          "size": 29012
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 684,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 234,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_TAIL.LZR",
+          "destination": "0xdc00",
+          "size": 31852
+        },
+        {
+          "asset": "IMG2_234.LZR",
+          "destination": "temporary image buffer",
+          "size": 23960
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5736,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 235,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_DEVI.LZR",
+          "destination": "0xdc00",
+          "size": 31886
+        },
+        {
+          "asset": "IMG2_235.LZR",
+          "destination": "temporary image buffer",
+          "size": 23424
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 6272,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 1,
+      "id": 236,
+      "layout": [
+        0,
+        56320,
+        56320,
+        34816,
+        91136,
+        29696,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_WIND.LZR",
+          "destination": "0x0",
+          "size": 50584
+        },
+        {
+          "asset": "SCN_DEVI.LZR",
+          "destination": "0xdc00",
+          "size": 31886
+        },
+        {
+          "asset": "IMG2_236.LZR",
+          "destination": "temporary image buffer",
+          "size": 24096
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5600,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 10,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_010.LZR",
+          "destination": "temporary image buffer",
+          "size": 30384
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 3408,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 11,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_011.LZR",
+          "destination": "temporary image buffer",
+          "size": 16804
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 16988,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 17,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_017.LZR",
+          "destination": "temporary image buffer",
+          "size": 31404
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 2388,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 22,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_022.LZR",
+          "destination": "temporary image buffer",
+          "size": 32396
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 1396,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 24,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_024.LZR",
+          "destination": "temporary image buffer",
+          "size": 23404
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 10388,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 61,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_061.LZR",
+          "destination": "temporary image buffer",
+          "size": 32660
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 1132,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 139,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_139.LZR",
+          "destination": "temporary image buffer",
+          "size": 16420
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 17372,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 144,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_144.LZR",
+          "destination": "temporary image buffer",
+          "size": 24148
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 9644,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 182,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_182.LZR",
+          "destination": "temporary image buffer",
+          "size": 29648
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 4144,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 183,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_183.LZR",
+          "destination": "temporary image buffer",
+          "size": 31536
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 2256,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 185,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_185.LZR",
+          "destination": "temporary image buffer",
+          "size": 29012
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 4780,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 196,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_196.LZR",
+          "destination": "temporary image buffer",
+          "size": 30796
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 2996,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 204,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_DEVI.LZR",
+          "destination": "0xd800",
+          "size": 30808
+        },
+        {
+          "asset": "IMG3_204.LZR",
+          "destination": "temporary image buffer",
+          "size": 25408
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 8384,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 209,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_209.LZR",
+          "destination": "temporary image buffer",
+          "size": 28720
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5072,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 210,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG3_210.LZR",
+          "destination": "temporary image buffer",
+          "size": 24964
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 8828,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 224,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_DEVI.LZR",
+          "destination": "0xd800",
+          "size": 30808
+        },
+        {
+          "asset": "IMG3_224.LZR",
+          "destination": "temporary image buffer",
+          "size": 32724
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 1068,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 2,
+      "id": 232,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_COOL.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_DEVI.LZR",
+          "destination": "0xd800",
+          "size": 30808
+        },
+        {
+          "asset": "IMG3_232.LZR",
+          "destination": "temporary image buffer",
+          "size": 33784
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 8,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 11,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG4_011.LZR",
+          "destination": "temporary image buffer",
+          "size": 16804
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 16988,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 19,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_TENT.LZR",
+          "destination": "0xd800",
+          "size": 30862
+        },
+        {
+          "asset": "IMG4_019.LZR",
+          "destination": "temporary image buffer",
+          "size": 27120
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 6672,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 34,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG4_034.LZR",
+          "destination": "temporary image buffer",
+          "size": 28180
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5612,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 40,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG4_040.LZR",
+          "destination": "temporary image buffer",
+          "size": 33396
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 396,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 42,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG4_042.LZR",
+          "destination": "temporary image buffer",
+          "size": 30260
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 3532,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 46,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_TAIL.LZR",
+          "destination": "0xd800",
+          "size": 30774
+        },
+        {
+          "asset": "IMG4_046.LZR",
+          "destination": "temporary image buffer",
+          "size": 29984
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 3808,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 48,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG4_048.LZR",
+          "destination": "temporary image buffer",
+          "size": 26756
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 7036,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 51,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_TENT.LZR",
+          "destination": "0xd800",
+          "size": 30862
+        },
+        {
+          "asset": "IMG4_051.LZR",
+          "destination": "temporary image buffer",
+          "size": 28620
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5172,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 60,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_TENT.LZR",
+          "destination": "0xd800",
+          "size": 30862
+        },
+        {
+          "asset": "IMG4_060.LZR",
+          "destination": "temporary image buffer",
+          "size": 28316
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5476,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 65,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG4_065.LZR",
+          "destination": "temporary image buffer",
+          "size": 29800
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 3992,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 111,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_TENT.LZR",
+          "destination": "0xd800",
+          "size": 30862
+        },
+        {
+          "asset": "IMG4_111.LZR",
+          "destination": "temporary image buffer",
+          "size": 31856
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 1936,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 134,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG4_134.LZR",
+          "destination": "temporary image buffer",
+          "size": 27364
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 6428,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 139,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG4_139.LZR",
+          "destination": "temporary image buffer",
+          "size": 16420
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 17372,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 144,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_AGUM.LZR",
+          "destination": "0xd800",
+          "size": 30536
+        },
+        {
+          "asset": "IMG4_144.LZR",
+          "destination": "temporary image buffer",
+          "size": 24148
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 9644,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 146,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_TAIL.LZR",
+          "destination": "0xd800",
+          "size": 30774
+        },
+        {
+          "asset": "IMG4_146.LZR",
+          "destination": "temporary image buffer",
+          "size": 28772
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5020,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 181,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_TENT.LZR",
+          "destination": "0xd800",
+          "size": 30862
+        },
+        {
+          "asset": "IMG4_181.LZR",
+          "destination": "temporary image buffer",
+          "size": 27836
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 5956,
+      "save_region_preserved": true
+    },
+    {
+      "bank": 3,
+      "id": 186,
+      "layout": [
+        0,
+        55296,
+        55296,
+        31744,
+        87040,
+        33792,
+        120832,
+        2048
+      ],
+      "requests": [
+        {
+          "asset": "PRG_NATR.LZR",
+          "destination": "0x0",
+          "size": 52924
+        },
+        {
+          "asset": "SC3_TAIL.LZR",
+          "destination": "0xd800",
+          "size": 30774
+        },
+        {
+          "asset": "IMG4_186.LZR",
+          "destination": "temporary image buffer",
+          "size": 25896
+        }
+      ],
+      "image_tail_bytes_copied_beyond_payload": 7896,
+      "save_region_preserved": true
+    }
+  ],
+  "scope": "Actual Cool/Nature host seven-stage resource loading function executed for all79 Fire/Wind/Cool/Nature table rows. Disc read service replaced by exact local raw DATAFILE payload copies; completion supplied1. Native whole-reserved-image copying executes. No card write, no CD decoder emulation, no full transfer/boot. Short image payload tail deliberately initialized5A to expose copying beyond payload."
+}

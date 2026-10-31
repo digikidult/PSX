@@ -1,0 +1,155 @@
+{
+  "status": "passed",
+  "scope": "17 Nature original CDF image payloads strictly decoded; three original scenario graph/text spans and capacities verified. Original Nature program matches independent existing extraction. Nature actual host-generated save not yet collected; no all-target gameplay claim.",
+  "program_bytes": 52924,
+  "program_sha256": "b911c4bc6bbb28a7db02ae95b4d79300708f765cb41081cf1966d4cfc506e016",
+  "program_fingerprint": {
+    "start": 512,
+    "end": 52924,
+    "sha256": "7f2fb959a1df932c3af267539e98c0052c78cac92d9d1d57ec722bf877fdb86e"
+  },
+  "images": [
+    {
+      "id": 11,
+      "bytes": 16804,
+      "sha256": "2f978a98ee2aa4aef0d2bf5e02cd0c007488a1999df343bad6aef762e924684e",
+      "scenario": "SC3_AGUM.LZR",
+      "strict_animation_controls": 906
+    },
+    {
+      "id": 19,
+      "bytes": 27120,
+      "sha256": "622862fc1fab5d75de051c6fbc1b8e9acb03349926dc17f69e5b8b7e9c4422f0",
+      "scenario": "SC3_TENT.LZR",
+      "strict_animation_controls": 459
+    },
+    {
+      "id": 34,
+      "bytes": 28180,
+      "sha256": "7f958cf0b42a8644700d919137ad3a2170063956596ec50a6977321f1a6a93f3",
+      "scenario": "SC3_AGUM.LZR",
+      "strict_animation_controls": 559
+    },
+    {
+      "id": 40,
+      "bytes": 33396,
+      "sha256": "d755a6d52376d0ae0ebb42b3d6ba7840eab5b09d30ae68e9ba1022d995395e61",
+      "scenario": "SC3_AGUM.LZR",
+      "strict_animation_controls": 601
+    },
+    {
+      "id": 42,
+      "bytes": 30260,
+      "sha256": "05abb8769eeee9b22aa63a49331ac5dc70346b5df840940f2b3c5ffd02c3065c",
+      "scenario": "SC3_AGUM.LZR",
+      "strict_animation_controls": 736
+    },
+    {
+      "id": 46,
+      "bytes": 29984,
+      "sha256": "4ba9ec943ff459decae1929097149080f7852185c25ad0e47efc651f9b473b0f",
+      "scenario": "SC3_TAIL.LZR",
+      "strict_animation_controls": 618
+    },
+    {
+      "id": 48,
+      "bytes": 26756,
+      "sha256": "2813f4462091a89016a18353e9a77366be6b98b7dd2876711cb69842bd9b6afe",
+      "scenario": "SC3_AGUM.LZR",
+      "strict_animation_controls": 540
+    },
+    {
+      "id": 51,
+      "bytes": 28620,
+      "sha256": "ca59a9c5bd2a0873fea675b889450f1c17ea59c825ee24f60d0f1b8fabaa5d0e",
+      "scenario": "SC3_TENT.LZR",
+      "strict_animation_controls": 443
+    },
+    {
+      "id": 60,
+      "bytes": 28316,
+      "sha256": "e21297ae0b11d91d25b5924dc1158536ec82132175dd849127851659a8e91172",
+      "scenario": "SC3_TENT.LZR",
+      "strict_animation_controls": 506
+    },
+    {
+      "id": 65,
+      "bytes": 29800,
+      "sha256": "dfebaa4793dd03e4e308dbc462e86aecb6833293230150bd26678515202b1d3b",
+      "scenario": "SC3_AGUM.LZR",
+      "strict_animation_controls": 730
+    },
+    {
+      "id": 111,
+      "bytes": 31856,
+      "sha256": "41ca17bb921cc3128076002d9cf02da672bc3d0b1e2af4bc327e8ce7b553ffb4",
+      "scenario": "SC3_TENT.LZR",
+      "strict_animation_controls": 653
+    },
+    {
+      "id": 134,
+      "bytes": 27364,
+      "sha256": "ff770c5909abc758c3f1b7e79299fb28d6a7308e5253104214e016e7f8b294c8",
+      "scenario": "SC3_AGUM.LZR",
+      "strict_animation_controls": 560
+    },
+    {
+      "id": 139,
+      "bytes": 16420,
+      "sha256": "18b93b5ac995a23e2905a8befed25d5533cd38e0928a1d93019ef7813524e764",
+      "scenario": "SC3_AGUM.LZR",
+      "strict_animation_controls": 906
+    },
+    {
+      "id": 144,
+      "bytes": 24148,
+      "sha256": "8d1e648027b3897c4fd8056254707558f0c9c8c041f64c1787ef27c6bf091863",
+      "scenario": "SC3_AGUM.LZR",
+      "strict_animation_controls": 426
+    },
+    {
+      "id": 146,
+      "bytes": 28772,
+      "sha256": "c0f21a87919225aef92d1dc310efad3bf585a3ff4831b25a25198e7e90fc2443",
+      "scenario": "SC3_TAIL.LZR",
+      "strict_animation_controls": 552
+    },
+    {
+      "id": 181,
+      "bytes": 27836,
+      "sha256": "70c106fa93437ad911e351d65bc5618784a37b64d7f932ca43b99a87feed5b26",
+      "scenario": "SC3_TENT.LZR",
+      "strict_animation_controls": 509
+    },
+    {
+      "id": 186,
+      "bytes": 25896,
+      "sha256": "29ec1718452774a8baff508d04a20396cbc3948677a7eadbb915ebb00bfe92ed",
+      "scenario": "SC3_TAIL.LZR",
+      "strict_animation_controls": 503
+    }
+  ],
+  "scenarios": [
+    {
+      "name": "SC3_AGUM.LZR",
+      "bytes": 30536,
+      "sha256": "a8997acfa1016c308ac561f25be5ef7f782db709d6af66841c1ecb347ef973c5",
+      "nodes": 2572,
+      "text_references": 525
+    },
+    {
+      "name": "SC3_TAIL.LZR",
+      "bytes": 30774,
+      "sha256": "9efa5d6b5a56ed08cce4f2363606c4737cca854a1af30352911cb8abeb27b6f7",
+      "nodes": 2574,
+      "text_references": 533
+    },
+    {
+      "name": "SC3_TENT.LZR",
+      "bytes": 30862,
+      "sha256": "5f6cb530dd2292ef51a98df46ac57dcd574a8782a5baef0ba15bacd045684794",
+      "nodes": 2574,
+      "text_references": 534
+    }
+  ]
+}

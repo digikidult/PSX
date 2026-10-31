@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "checks": 33,
+  "scope": "3-family guarded battle exports/reparse/exact counter byte allowlist and immutable source; browser percentage, invalid input, reset, mobile overflow and console checks. No emulator gameplay verification.",
+  "exports": [
+    "C:\\Users\\Wil\\Documents\\ChatGPT\\Ps rom analysis\\research\\editor-test-output\\fire-battle-export.mcd",
+    "C:\\Users\\Wil\\Documents\\ChatGPT\\Ps rom analysis\\research\\editor-test-output\\wind-battle-export.mcd",
+    "C:\\Users\\Wil\\Documents\\ChatGPT\\Ps rom analysis\\research\\editor-test-output\\coolnature-battle-export.mcd"
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "status": "passed",
+  "nativeEvolutionFixtures": 391,
+  "sourceCardFiles": 14,
+  "scope": "JS native evolution VM cross-check, guarded edits, immutable input, exact byte allowlist, output reparse, multi-slot and fragmented-card export. No physical emulator gameplay claim.",
+  "records": [
+    {
+      "kind": "real sample",
+      "file": "coolnature-native-9697c98824eb.mcd",
+      "family": "Cool"
+    },
+    {
+      "kind": "real sample",
+      "file": "fire-native-7e578bab67e5.mcd",
+      "family": "Fire"
+    },
+    {
+      "kind": "real sample",
+      "file": "cool-after-reported-win-c8a28909620e.mcd",
+      "family": "Cool"
+    },
+    {
+      "kind": "real sample",
+      "file": "cool-grown-before-battle-536e951548dd.mcd",
+      "family": "Cool"
+    },
+    {
+      "kind": "real sample",
+      "file": "cool-sleep-flash-export-536e951548dd.mcd",
+      "family": "Cool"
+    },
+    {
+      "kind": "real sample",
+      "file": "fire-after-dock-save-195c703defa4.mcd",
+      "family": "Fire"
+    },
+    {
+      "kind": "real sample",
+      "file": "fire-after-possible-extra-battle-36a6b2fd33aa.mcd",
+      "family": "Fire"
+    },
+    {
+      "kind": "real sample",
+      "file": "fire-after-reported-losses-36a6b2fd33aa.mcd",
+      "family": "Fire"
+    },
+    {
+      "kind": "real sample",
+      "file": "fire-before-first-battle-195c703defa4.mcd",
+      "family": "Fire"
+    },
+    {
+      "kind": "real sample",
+      "file": "fire-before-standalone-7e578bab67e5.mcd",
+      "family": "Fire"
+    },
+    {
+      "kind": "real sample",
+      "file": "fire-boosted-after-reported-win-e065621da14b.mcd",
+      "family": "Fire"
+    },
+    {
+      "kind": "real sample",
+      "file": "fire-boosted-before-battle-3c8180416cd4.mcd",
+      "family": "Fire"
+    },
+    {
+      "kind": "real sample",
+      "file": "fire-grown-flash-export-7e578bab67e5.mcd",
+      "family": "Fire"
+    },
+    {
+      "kind": "real sample",
+      "file": "wind-native-91de4cac4438.mcd",
+      "family": "Wind"
+    },
+    {
+      "kind": "JS native VM matches independently verified Python cases",
+      "cases": 391
+    },
+    {
+      "kind": "timer export/native preview",
+      "family": "Fire",
+      "wait": 691712,
+      "target": 0
+    },
+    {
+      "kind": "timer export/native preview",
+      "family": "Fire",
+      "wait": 0,
+      "target": 213
+    },
+    {
+      "kind": "timer export/native preview",
+      "family": "Wind",
+      "wait": 691712,
+      "target": 0
+    },
+    {
+      "kind": "timer export/native preview",
+      "family": "Wind",
+      "wait": 0,
+      "target": 235
+    },
+    {
+      "kind": "timer export/native preview",
+      "family": "Cool",
+      "wait": 691712,
+      "target": 0
+    },
+    {
+      "kind": "timer export/native preview",
+      "family": "Cool",
+      "wait": 0,
+      "target": 196
+    },
+    {
+      "kind": "all planned edits/reparse",
+      "changedBytes": 22
+    },
+    {
+      "kind": "invalid edit plans rejected",
+      "cases": 15
+    },
+    {
+      "kind": "pending move locks move edits, permits stats"
+    },
+    {
+      "kind": "stale pending ID retained"
+    },
+    {
+      "kind": "independent multi-slot export and duplicate rejection"
+    },
+    {
+      "kind": "fragmented15-block re-export",
+      "order": [
+        15,
+        2,
+        13,
+        4,
+        11,
+        6,
+        9,
+        8,
+        7,
+        10,
+        5,
+        12,
+        3,
+        14,
+        1
+      ]
+    },
+    {
+      "kind": "structurally invalid cards refused",
+      "cases": 8
+    },
+    {
+      "kind": "unverified/abnormal data held read-only",
+      "cases": 6
+    },
+    {
+      "kind": "active partner bank must match downloaded program"
+    },
+    {
+      "kind": "time guards block baby/special/runaway edits",
+      "cases": 3
+    }
+  ]
+}

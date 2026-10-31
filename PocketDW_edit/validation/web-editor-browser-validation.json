@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "viewportWidths": [
+    1440,
+    390
+  ],
+  "scope": "File URL/offline loading, native before/after evolution, stats/currentHP pairing, invalid input, mood sync, paired move labels/search/add, backup and modified download/reparse, separate slot drafts, pending/baby/unknown guards, corrupted file, all3 versions, mobile overflow, image loading and zero HTTP requests.",
+  "downloads": {
+    "original": "4e7a55de5fabccedfc4b8bfe95031a74c873947d61739f73de6ca3ea3370414f",
+    "edited": "3d7ab5db108a4201ebf4da19c493459466620d2a08bfdbbb32b3c075882c6326"
+  },
+  "sourceUnchanged": true,
+  "errors": [],
+  "networkRequests": []
+}

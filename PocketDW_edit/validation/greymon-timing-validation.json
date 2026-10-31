@@ -1,0 +1,54 @@
+{
+  "status": "passed",
+  "sourceID": 5,
+  "desiredTargetID": 12,
+  "ageReferenceHoursMinimum": 96,
+  "waitReferenceHoursUpperRule": 24,
+  "hourUnits": 115200,
+  "ruleOffset": "0x8ae8",
+  "otherConditions": {
+    "maxHP": 1300,
+    "maxMP": 1300,
+    "attack": 300,
+    "defense": 300,
+    "intelligence": 300,
+    "speed": 300,
+    "mood": 4,
+    "sleepDisturbance": 0,
+    "ignoredCalls": 0,
+    "runaways": 0
+  },
+  "cases": [
+    {
+      "age": 11059199,
+      "wait": 0,
+      "full_original_table_target": 0,
+      "isolated_original_Greymon_rule_target": 0
+    },
+    {
+      "age": 11059200,
+      "wait": 0,
+      "full_original_table_target": 12,
+      "isolated_original_Greymon_rule_target": 12
+    },
+    {
+      "age": 11059200,
+      "wait": 2764800,
+      "full_original_table_target": 12,
+      "isolated_original_Greymon_rule_target": 12
+    },
+    {
+      "age": 11059200,
+      "wait": 2765311,
+      "full_original_table_target": 12,
+      "isolated_original_Greymon_rule_target": 12
+    },
+    {
+      "age": 11059200,
+      "wait": 2765312,
+      "full_original_table_target": 26,
+      "isolated_original_Greymon_rule_target": 0
+    }
+  ],
+  "scope": "Original Fire evolution checker, whole unmodified table and isolated copied rule with terminator. Demonstrates lower age boundary, upper ready-wait quantization and priority-selected alternate target26 beyond upper window for this controlled state. Not actual wall-clock waiting or forced evolution/gameplay claim."
+}
