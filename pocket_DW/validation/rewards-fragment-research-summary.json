@@ -1,0 +1,97 @@
+{
+  "status": "passed_with_stated_limits",
+  "date": "2026-11-01",
+  "fragment10": {
+    "WindTownAwardSteps": 17,
+    "FireRosterCases": 16,
+    "source": "Wind NPC45 Stingmon / location1 / prerequisite common flag51",
+    "savedOffset": "0x1d825",
+    "requiredFireActiveGroup": 0,
+    "readability": "User-confirmed cross-version save readability",
+    "nativeScope": [
+      "Every Wind town selection and prize setter executed with accumulated empty-start inventory; earlier eligible town NPCs actually cleared.",
+      "Victory is assumed at prize boundary; battles/travel not simulated.",
+      "Native Wind global save and native Fire global load preserve identical collected bitmap. Flash commit is memory-only.",
+      "Fire roster sees fragment25 only with tested active Fire resource group0; Wind/Cool/Nature groups are not falsely accepted.",
+      "Switching/downloading active Fire partner and actual cross-version file/UI load were not executed as a full game playthrough; readability is user-confirmed.",
+      "No user card modified; no ROM/BIOS/card assets exported."
+    ]
+  },
+  "rewardModes": {
+    "status": "passed",
+    "cases": 7,
+    "findings": [
+      "All three original CPU constructors/preparation routes propagate nonzero result mode1/2, invoking the already-native-tested RNG%10<5 growth gate.",
+      "Fire two-device preparation3 bypasses CPU constructor, propagates result mode0 and skips this growth gate.",
+      "Chance gate is before stat roll/caps/streak reduction; passing it does not guarantee nonzero growth."
+    ],
+    "casesDetail": [
+      {
+        "version": "Fire",
+        "preparation": 1,
+        "nativeCPUconstructorCalls": 1,
+        "modeAtResult": 1,
+        "growthGate": "RNG%10<5",
+        "scope": "CPUconstructor and backup builder execute unhooked. Original boot mode classifier, battle argument save and result-call fragment execute. Intervening whole match omitted."
+      },
+      {
+        "version": "Fire",
+        "preparation": 2,
+        "nativeCPUconstructorCalls": 1,
+        "modeAtResult": 2,
+        "growthGate": "RNG%10<5",
+        "scope": "CPUconstructor and backup builder execute unhooked. Original boot mode classifier, battle argument save and result-call fragment execute. Intervening whole match omitted."
+      },
+      {
+        "version": "Fire",
+        "preparation": 3,
+        "nativeCPUconstructorCalls": 0,
+        "modeAtResult": 0,
+        "growthGate": "bypassed",
+        "scope": "CPUconstructor and backup builder execute unhooked. Original boot mode classifier, battle argument save and result-call fragment execute. Intervening whole match omitted."
+      },
+      {
+        "version": "Wind",
+        "CPUside": 0,
+        "nativeCPUconstructor": "0x800dafa0",
+        "modeAtResult": 1,
+        "growthGate": "RNG%10<5",
+        "scope": "Original CPU constructor writes mode byte; original battle entry mode capture/attribute normalization and result call fragments propagate it unchanged. Whole rendered match omitted."
+      },
+      {
+        "version": "Wind",
+        "CPUside": 1,
+        "nativeCPUconstructor": "0x800dafa0",
+        "modeAtResult": 2,
+        "growthGate": "RNG%10<5",
+        "scope": "Original CPU constructor writes mode byte; original battle entry mode capture/attribute normalization and result call fragments propagate it unchanged. Whole rendered match omitted."
+      },
+      {
+        "version": "CoolNature",
+        "CPUside": 0,
+        "nativeCPUconstructor": "0x800dcc0c",
+        "modeAtResult": 1,
+        "growthGate": "RNG%10<5",
+        "scope": "Original CPU constructor writes mode byte; original battle entry mode capture/attribute normalization and result call fragments propagate it unchanged. Whole rendered match omitted."
+      },
+      {
+        "version": "CoolNature",
+        "CPUside": 1,
+        "nativeCPUconstructor": "0x800dcc0c",
+        "modeAtResult": 2,
+        "growthGate": "RNG%10<5",
+        "scope": "Original CPU constructor writes mode byte; original battle entry mode capture/attribute normalization and result call fragments propagate it unchanged. Whole rendered match omitted."
+      }
+    ],
+    "limits": [
+      "Control/input/menu text and full rendered matches not exercised.",
+      "RNG%10 residual rule, not measured uniform exact50percent.",
+      "No inference of extra item awards outside the complete native result function."
+    ]
+  },
+  "learning": {
+    "fullResultCases": 2142,
+    "perActorChecks": 4284,
+    "scope": "All119 supplied candidate IDs through both winner/loser full result; pending marker only, learned-list unchanged; no species-learnability or confirmation UI/save acceptance."
+  }
+}

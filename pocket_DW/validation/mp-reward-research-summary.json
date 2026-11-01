@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-01",
+  "status": "passed_with_stated_limits",
+  "snapshotLowMP": {
+    "snapshots": 2,
+    "AIcalls": 576,
+    "nativeRetryWrappers": 36,
+    "halfword6": "0x275a",
+    "maskedComparisonCost": 8580,
+    "findings": [
+      "Original caller immediately retries negative first AI result once.",
+      "Snapshot-backed MP0/9 fixtures produce move0/cost0 via original immediate retry caller.",
+      "Fixed-context continuation does not itself change MP."
+    ],
+    "limits": [
+      "Existing snapshots, not a new rendered battle.",
+      "No general guarantee of lowRAM value across every BIOS/state.",
+      "No verified gradual MP regeneration interval."
+    ]
+  },
+  "MPdirectStores": {
+    "classified": 11,
+    "scope": "Direct non-stack SH offset98 only; does not exclude aliases/copies/other overlays."
+  },
+  "rewards": {
+    "wholeResultCases": 2880,
+    "sequenceAndResetCalls": 186,
+    "findings": [
+      "Full result function includes growth gate before six-stat updates. Modes supplied0 bypass;1/2 require RNG%10<5.",
+      "Same-rank no-bonus fresh-streak examples: Fire/Wind1..5 gains1..3,6..9 gains0..1,10..30 gains0; CoolNature1..10 gains1..3,11..19 gains0..1,20..30 gains0.",
+      "Native loser handling resets streak and subsequent controlled win recovers base gain."
+    ],
+    "limits": [
+      "Menu mode-to-gate mapping not fully accepted; do not advertise universal CPU50percent.",
+      "Winner starts BF0, no draw, no field bonus, no pending skill, stats100.",
+      "No full-match/save acceptance or other-item award inference."
+    ]
+  }
+}
