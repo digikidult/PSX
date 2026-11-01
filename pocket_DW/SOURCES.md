@@ -197,3 +197,26 @@ AI執行原始候選整理、招式速度排序、戰術分類／HP分段、MP�
   戰後加成已核對到哪一步？  三版本共2,880組完整戰果處理核對，包含加成前的紀錄更新、是否進入加成、六項能力更新及敗方處理；另以每版兩組連勝30次，核對同階最低／最高加幅，再測敗仗清除連勝與下一勝恢復基礎加幅，共186次連勝及重置呼叫。  已再執行三張光碟的CPU對手建立、對戰模式保存及戰果呼叫，確認CPU分支只在隨機數除10的餘數為0–4時進入加成，5–9跳過。Fire雙卡準備則繞過CPU對手建立，進入不抽這一次的分支。此為原始程式判定，並非量度玩家實戰勝率；完整畫面、其他獎品或保存重開未新增驗收。  
 
 戰後學招：全部119招各測已學／未學、智力門檻前後，共2142次完整戰果呼叫、4284項角色檢查。測試提供候選ID，未包含所有種類的招式可學範圍、提示確認、招式替換及實際保存重開。
+
+
+## 2026-11-01：Jogress合體攻略補充
+
+新增玩家章節：準備、PocketStation選單日文、一般結果、版本差別、招式取捨及回PS1處理。實體兩機通訊／按鍵時序／完整保存未驗收，正文已清楚提醒。未使用模擬器輸入、未改玩家卡。
+
+原始四版menu entry：Fire3BF8、Wind39AC、Cool/Nature3A14。裝置狀態輸入0（未宣告連接狀態）、UI終端服務省略，79夥伴×離家0/1＝158例：成長期拒絕名單Fire3/45/145、Wind31/32、Cool17/182、Nature111/46；其餘所列夥伴離家計時非0會走拒絕服務。Wind233迪路獸不在拒絕名單，未把進化圖根節點一律當成長期。
+
+sender=merge-30：Fire3CC6、Wind3A76、Cool/Nature3ADE，交換身份halfword、種類byte、結果指定byte（普通sender固定0）、主屬性高4bit／招式數減1低4bit及最多8招。沒有對方能力值。直接把原始sender輸出交給另一版merge，繞過IR傳輸，不能把資料合併相容誇稱硬件16組已驗收。
+
+完整postreceive merge：Fire3CF6、Wind3AA6、Cool/Nature3B0E，4peer版×16舊屬性mask×5次數×兩RNG邊界＝每版640例，共2560。含原始招式合併去重，未再省略先前叫stat_merge的函式（實際是moves merge）。Fire/Wind BA=自身B9|對方packet主屬性，舊BA被覆蓋；Cool/Nature額外OR舊BA，可累積。正常不同身份BB+1 cap99；相同身份min41既有identity-bank測試保留，不猜用途。存A4/A6雙方舊種類，自己的六項能力在Pocket merge未被加對方數值。特殊age/flag同之前來源研究，並非當刻清時段。
+
+一般packet結果byte0會執行本版root抽選，100值各版全測共400：Fire3亞古獸25、45比丘獸25、145V仔獸50；Wind31巴達獸25、32古尼獸25、233迪路獸50；Cool17加布獸/182哥瑪獸各50；Nature111甲蟲獸/46巴魯獸各50。這是0..99區間比例，非硬件量測保證。
+
+完整技能合併128例/版共512：自己的1..8×對方1..8×低/高有界亂數。去重後>8隨機無重複取8。Fire接8招全讀；Wind/Cool/Nature在peer count8時改讀7，故不能保證對方8招全傳。後續PS1重建亦再處理招式，未承諾Pocket聯集全數成為最終清單。
+
+主機數值繼承：FireOVFMENU C4494合體特殊狀態先調用C49F8目標145modifier（E0F9C表對應百分比全15）及原始C47E0，六舊值取15% floor min1，再由新起始值相加及C4AB4上限處理；Wind E1A3C、CoolNature E3080則直接加整份source六舊值並clamp9999/999。新起始值生成器在本次條件公式測試替換為明示輸入，並非把它的完整真實分佈算完；三host各12共36例。不得把這套條件算式冒稱最終數值預測。
+
+另Wind/Cool/Nature完整重建B各192共576例，16history×4counts×3moves；保留原始initializer與技能處理，既有RNG／float服務回0及Wind BIOS zero替代。BA、BB、A4/A6保留，年齡歸0、照顧C4..C6歸0、時段D2..D9清0，source不改。生成能力分佈、真正IR、混搭回收版本、兩端提交及卡保存重開未涵蓋。
+
+腳本：research/check_jogress_core.py、check_jogress_host_inheritance.py、check_jogress_host_history.py。公開摘要validation/jogress-research-summary.json。Fire/Wind四屬性方法仍無一般合體取得途徑；Cool/Nature提供屬性規劃例子，但每輪完整成長/實機跨版合體尚未逐步實玩，不宣稱全操作已完成。
+
+補充：目前公開172條進化條件中，fourAttributes方法Fire8條、Wind3條、Cool/Nature0條。Cool屬性累積例子只是展示紀錄如何累積，並非本版有已知四屬性進化目標；將這份歷史正常帶到指定Fire/Wind路線的完整流程未建立，不宣稱長期未明的四屬性取得問題已全解。
