@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-01",
+  "status": "passed",
+  "scope": "Player-facing editorial rewrite of main guide and dynamic cards; formulas, source game data and assets retained. Research evidence moved to SOURCES.md.",
+  "checks": {
+    "evolutionPairs": 130,
+    "dialogueCards": 30,
+    "JapaneseQuestionsAndAnswersRetained": true,
+    "collectionSelections": 475,
+    "townSelections": 52,
+    "opponentSourceLinks": 96,
+    "nativeCalculatorOracles": 1440,
+    "gameDataByteIdentical": [
+      "data.js",
+      "battle-data.js",
+      "combat-data.js"
+    ],
+    "allAssetsByteIdentical": true,
+    "allOriginalAnchorsRetained": true,
+    "noDuplicateIDs": true,
+    "offlineNoJSOrAssetErrors": true,
+    "mobile390pxNoPageOverflow": true,
+    "evolutionFollowNextAndSpriteModal": true,
+    "desktopMobileVisualInspection": true
+  },
+  "unchangedResearchLimits": "Read SOURCES.md; this editorial change adds no new whole-match, hardware or save/reload acceptance."
+}
