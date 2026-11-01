@@ -133,3 +133,27 @@ AI執行原始候選整理、招式速度排序、戰術分類／HP分段、MP�
 特殊演出分類交換／路由1071組：三類每版56／42／21招，單換分類不改普通公式的五項結果；不等於整段動畫對所有遊戲效果都相同。Cool／Nature原始helper0x800DD9B0，在最大HP1–9999的所有四分之一門檻附近共49989組通過。原始caller用已限制到剩餘HP內的傷害選反應bit25；沒有另加暴擊倍率。Fire／Wind已追到的普通設定強制選長反應。
 
 研究腳本：`research/check_hit_reaction_completion.py`、`research/check_hit_reaction_phase_gate.py`、`research/check_hit_reaction_next_ai.py`、`research/check_ps1_presentation_classes.py`、`research/check_cool_hit_reaction_threshold.py`。公開摘要：`validation/hit-reaction-research-summary.json`。未新增完整動畫秒數、全部特殊狀態、實機整場或保存重開驗收。原始ROM、BIOS及記憶卡不收入網站／下載包。
+
+
+### 2026-11-01：低MP續行及完整戰果處理補核
+
+本節取代較早「缺少位址0x6資料，後續只能參數化」的當前進度描述；舊報告保留其原有範圍。只讀取既有Wind與Cool／Nature的v71模擬器快照，依存檔標頭解壓，並以四處不同原始boot64-byte片段交叉定位2MB RAM，再核對Bus標記／RAM長度／後續DMA標記。兩份RAM半字6均為0x275A，原始ANDI低10位成本為8580。快照檔未改動，RAM／BIOS／原版程式不放進公開包。
+
+用真實樣本值代替舊未知參數，兩版各288次固定HP／MP背景的16次AI續行，另各18組原始外層即時重試，共576次＋36組。原呼叫點第一次負值便再呼叫一次，不是按時間等MP。MP0／9的測試都經第二次選出動作0、成本0；MP30依戰術可第一或第二次選到可負擔招式。沒有把固定背景呼叫冒稱整場對戰。直接非stack SH角色+0x98共11處已盤點：扣MP、生成／模型初始化回滿及另一路輸入位元0x20重設；未發現這些直接位置有逐步等待回復，不等於排除別名寫入、整份複製、其他程式或全部回復可能。沒有可靠固定回復秒數。
+
+完整原始戰果函式Fire0x800819EC、Wind0x800D7DD0、CoolNature0x800D9730，共2880組；略過文字／日誌、保留實際前後計數／六項加成／敗方與無新招式時的學招檢查。模式0不抽成長閘門，模式1／2僅RNG%10<5進入；各選單模式完整映射尚待驗收，不宣稱所有CPU固定50percent。BF初始0、非和局、無場景加成，Fire／WindBE每正常勝出先增加兩次，CoolNature增加一次，並據更新後值作衰減。各版30連勝低／高亂數上下界及一次敗仗、下一勝，共186次，正文只列這個明確起點的頭30場例子，不概括任意修改過記錄或無限連勝。敗仗可清BE，不把故意敗仗推薦為最優練功；完整其他獎品、待確認新招式、外層模式與保存重開仍未驗收。
+
+檢查：`research/check_snapshot_low_mp.py`、`research/audit_mp_stores.py`、`research/check_full_result_rewards.py`。公開核對摘要：`validation/mp-reward-research-summary.json`。快照容器參考：[DuckStation標頭](https://github.com/stenzek/duckstation/blob/master/src/core/save_state_version.h)、[RAM序列化](https://github.com/stenzek/duckstation/blob/master/src/core/bus.cpp)；實際v71資料另由四個原始boot片段與容器邊界獨立交叉核對，沒有只靠目前版本欄位猜RAM起點。
+
+
+### 2026-11-01：CPU獎勵模式、戰後學招及Fire記憶碎片10跨版本路線
+
+本次補核取代前述「CPU抽選模式未配對」及「Fire記憶碎片10來源未解」的目前狀態；較早文字與報告屬歷史研究界線。
+
+使用者確認可跨版本讀檔。新核對從空收藏開始，執行Wind原始城鎮選擇及領獎函式，連同前置與更早合資格角色共17步，最後於不迷之森擊敗飛蟲獸取得共通flag25。Wind原始共通保存0x6C10將48-byte共通資料寫入128-byte頭部，Fire原始共通載入0x68E0能完整讀回同一收藏bitmap；flag25在遊戲payload0x1D825 bit0。再將原樣頭部按既有native cache映射交給Fire原始CPU名單0x800C1894，16組有／無flag、四個活動版本組別、兩個庫存來源檢查通過；需Fire活動組別0。故網站提供Wind收集→正常保存→Fire讀同一卡檔→切換Fire夥伴／更新配套→查看比多獸的路線，並明示完整畫面切換及17場實戰尚未逐步驗收。沒有把Wind活動夥伴直接冒稱通過Fire門檻，亦沒有在Fire本版表補造掉落來源。
+
+原碼模式鏈共7組：Fire原始準備0x800C1BD8在模式1／2會真的呼叫CPU建立0x800C1AB0，主程式分類後保留非零模式至戰果；模式3雙卡準備不建立CPU，傳0。Wind／CoolNature原始CPU建立分別0x800DAFA0／0x800DCC0C按兩側寫1／2，原始對戰入口保存並傳至戰果。結合之前2880組完整戰果測試，三版CPU一般勝仗先過RNG%10<5閘門再加六項能力，通過仍可能因衰減／上限為0。Fire雙卡不抽這個閘門；不泛稱所有後續版本非CPU模式已逐項實戰驗收。
+
+原始完整戰果再測119候選×2已知狀態×3智力門檻值×3版本＝2142組、雙方4284項。兩邊均只在未學且IQ達標時寫C7待確認／C8候選ID；C9..D1已學清單原樣保留。亂數9刻意跳過能力加成，以隔離學招；候選ID由測試提供，不等於各種數碼獸任學119招。確認提示、替換招式、保存重開未新增全場驗收。
+
+腳本：`research/check_fragment10_chain.py`、`research/check_reward_mode_chain.py`、`research/check_result_learning.py`。公開摘要：`validation/rewards-fragment-research-summary.json`。Flash寫入只用記憶體副本服務，不改玩家卡；未操作模擬器，沒有部署網站。
