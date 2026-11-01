@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-01",
+  "status": "bounded_native_findings_integrated",
+  "Pocket": {
+    "Fire": {
+      "status": "passed",
+      "eligibilityCases": 48,
+      "historyAndMergeCases": 640,
+      "moveCapacityCases": 128,
+      "randomResultCases": 100,
+      "randomResultRollCounts": {
+        "3": 25,
+        "45": 25,
+        "145": 50
+      }
+    },
+    "Wind": {
+      "status": "passed",
+      "eligibilityCases": 42,
+      "historyAndMergeCases": 640,
+      "moveCapacityCases": 128,
+      "randomResultCases": 100,
+      "randomResultRollCounts": {
+        "31": 25,
+        "32": 25,
+        "233": 50
+      }
+    },
+    "Cool": {
+      "status": "passed",
+      "eligibilityCases": 34,
+      "historyAndMergeCases": 640,
+      "moveCapacityCases": 128,
+      "randomResultCases": 100,
+      "randomResultRollCounts": {
+        "17": 50,
+        "182": 50
+      }
+    },
+    "Nature": {
+      "status": "passed",
+      "eligibilityCases": 34,
+      "historyAndMergeCases": 640,
+      "moveCapacityCases": 128,
+      "randomResultCases": 100,
+      "randomResultRollCounts": {
+        "111": 50,
+        "46": 50
+      }
+    }
+  },
+  "PS1inheritanceCases": 36,
+  "laterFullHostHistoryCases": 576,
+  "limits": [
+    "Peer payload produced by original sender and injected directly. No actual IR transport/protocol/bilateral commit test.",
+    "UI device-status supplied0, terminal display/audio skipped.",
+    "Stat inheritance tested conditional on supplied generated new-base values; no absolute new-stat distribution claim.",
+    "Later full initializer/history tests supply existing RNG/float service outputs0.",
+    "No end-to-end two-device exchange, full display/button timing, mixed-disc recovery or save-reload acceptance."
+  ]
+}

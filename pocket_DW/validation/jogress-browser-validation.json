@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "date": "2026-11-01",
+  "checks": {
+    "jogressResultPortraits": 10,
+    "versionAwareFourAttributeNotes": true,
+    "evolutionPairs": 130,
+    "dialogueCards": 30,
+    "JapanesePairsRetained": true,
+    "townSelections": 52,
+    "collectionSelections": 475,
+    "opponentLinks": 96,
+    "nativeCalculatorOracleCases": 1440,
+    "allGameDataByteIdentical": true,
+    "allOriginalAnchorsRetained": true,
+    "desktopMobileScreenshotsInspected": true,
+    "offlineNoScriptAssetFailures": true,
+    "mobile390pxNoOverflow": true
+  }
+}
